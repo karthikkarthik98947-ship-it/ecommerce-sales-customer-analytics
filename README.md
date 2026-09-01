@@ -106,7 +106,7 @@ The Power BI dashboard contains:
 
 ## Dashboard Preview
 
-![E-Commerce Sales & Customer Analytics Dashboard](images/dashboard.png)
+![E-Commerce Sales Dashboard](dashboard.png)
 
 ---
 
