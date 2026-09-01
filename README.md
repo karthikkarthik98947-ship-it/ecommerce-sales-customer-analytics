@@ -110,6 +110,25 @@ The Power BI dashboard contains:
 
 ---
 
+## 📌 Key Business Insights
+
+The analysis of the e-commerce dataset provided the following insights:
+
+- The monthly sales analysis shows how revenue changed throughout 2025.
+- The Top 10 Products analysis identifies the products generating the highest revenue.
+- Category-wise analysis identifies the best-performing product category.
+- City-wise analysis identifies the locations generating the highest revenue.
+- Rating distribution provides an overview of customer satisfaction.
+- Payment method analysis shows customer payment preferences.
+
+### Business Questions Answered
+
+- The highest-revenue product was = "Laptop".
+- The best-performing category was = "Electronics".
+- The highest-revenue city was = "Mysore".
+- The most common rating was ="4".
+- The most preferred payment method was = "UPI".
+
 ## Project Structure
 
 ```text
