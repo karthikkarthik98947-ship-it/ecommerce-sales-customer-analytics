@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Customer_ID,Product,Category,Quantity,Price,Sales,City,State,Payment_Method,Rating
+10001,21/01/2025,C1103,T-Shirt,Fashion,2,1450,2900,Kolkata,West Bengal,Credit Card,5
+10002,11/05/2025,C1150,Backpack,Fashion,1,3150,3150,Chennai,Tamil Nadu,UPI,3
+10003,10/11/2025,C1022,Smartwatch,Electronics,3,5150,15450,Kochi,Kerala,UPI,3
+10004,07/07/2025,C1015,Desk Lamp,Home & Kitchen,1,1700,1700,Delhi,Delhi,Credit Card,1
+10005,11/05/2025,C1051,Cookware Set,Home & Kitchen,3,2600,7800,Warangal,Telangana,Debit Card,5
+10006,30/08/2025,C1009,Shoes,Fashion,4,1250,5000,Pune,Maharashtra,UPI,5
+10007,21/09/2025,C1175,Smartphone,Electronics,2,24750,49500,Kochi,Kerala,UPI,2
+10008,23/02/2025,C1106,Desk Lamp,Home & Kitchen,2,850,1700,Chennai,Tamil Nadu,Credit Card,4
+10009,27/09/2025,C1095,Novel,Books,1,550,550,Delhi,Delhi,Net Banking,5
+10010,01/08/2025,C1082,Jeans,Fashion,3,1300,3900,Pune,Maharashtra,Credit Card,5
+10011,23/11/2025,C1009,Coffee Maker,Home & Kitchen,1,3650,3650,Ahmedabad,Gujarat,Cash on Delivery,2
+10012,12/06/2025,C1163,Smartwatch,Electronics,5,2550,12750,Kolkata,West Bengal,Cash on Delivery,3
+10013,20/07/2025,C1072,Keyboard,Electronics,1,2050,2050,Pune,Maharashtra,Credit Card,5
+10014,21/06/2025,C1104,Laptop,Electronics,5,56100,280500,Mumbai,Maharashtra,UPI,5
+10015,06/08/2025,C1142,Headphones,Electronics,1,3800,3800,Hubli,Karnataka,Credit Card,5
+10016,28/06/2025,C1063,Shoes,Fashion,4,3250,13000,Delhi,Delhi,Cash on Delivery,4
+10017,19/08/2025,C1143,Desk Lamp,Home & Kitchen,2,1650,3300,Chennai,Tamil Nadu,Cash on Delivery,5
+10018,11/10/2025,C1066,Mouse,Electronics,2,550,1100,Kolkata,West Bengal,Debit Card,5
+10019,27/11/2025,C1128,Monitor,Electronics,2,25900,51800,Kochi,Kerala,Cash on Delivery,4
+10020,01/05/2025,C1116,T-Shirt,Fashion,3,500,1500,Pune,Maharashtra,UPI,4
+10021,14/06/2025,C1051,Headphones,Electronics,4,2300,9200,Kolkata,West Bengal,UPI,4
+10022,23/04/2025,C1062,Cookware Set,Home & Kitchen,1,3300,3300,Mumbai,Maharashtra,Net Banking,5
+10023,11/04/2025,C1113,Programming Book,Books,2,850,1700,Mysore,Karnataka,Net Banking,5
+10024,12/08/2025,C1129,Desk Lamp,Home & Kitchen,1,1500,1500,Hyderabad,Telangana,UPI,1
+10025,20/11/2025,C1183,Smartphone,Electronics,2,37950,75900,Hyderabad,Telangana,Cash on Delivery,3
+10026,17/07/2025,C1139,Desk Lamp,Home & Kitchen,4,2100,8400,Coimbatore,Tamil Nadu,Cash on Delivery,4
+10027,15/12/2025,C1003,Bedsheet,Home & Kitchen,1,950,950,Kolkata,West Bengal,Credit Card,3
+10028,18/07/2025,C1052,Mouse,Electronics,1,1900,1900,Hubli,Karnataka,Net Banking,4
+10029,31/05/2025,C1159,Jeans,Fashion,5,2000,10000,Mumbai,Maharashtra,Cash on Delivery,3
+10030,01/03/2025,C1113,Headphones,Electronics,4,5700,22800,Delhi,Delhi,UPI,5
+10031,09/01/2025,C1099,Bedsheet,Home & Kitchen,3,2300,6900,Coimbatore,Tamil Nadu,Debit Card,5
+10032,26/04/2025,C1075,Bedsheet,Home & Kitchen,1,2250,2250,Hyderabad,Telangana,Net Banking,5
+10033,09/04/2025,C1153,Mouse,Electronics,3,1800,5400,Hubli,Karnataka,UPI,4
+10034,18/06/2025,C1161,Mixer Grinder,Home & Kitchen,1,5500,5500,Hubli,Karnataka,UPI,5
+10035,15/05/2025,C1195,Mixer Grinder,Home & Kitchen,2,3400,6800,Mumbai,Maharashtra,Debit Card,4
+10036,22/01/2025,C1158,Laptop,Electronics,5,47800,239000,Hubli,Karnataka,Net Banking,4
+10037,04/10/2025,C1030,Coffee Maker,Home & Kitchen,1,7350,7350,Kolkata,West Bengal,Debit Card,4
+10038,27/05/2025,C1004,Cookware Set,Home & Kitchen,5,6250,31250,Kochi,Kerala,UPI,5
+10039,15/02/2025,C1117,Desk Lamp,Home & Kitchen,5,850,4250,Kochi,Kerala,Cash on Delivery,4
+10040,05/04/2025,C1099,Shoes,Fashion,2,5650,11300,Bangalore,Karnataka,Net Banking,4
+10041,19/11/2025,C1128,Programming Book,Books,4,900,3600,Warangal,Telangana,UPI,3
+10042,07/10/2025,C1114,Jacket,Fashion,4,6200,24800,Hubli,Karnataka,Debit Card,4
+10043,14/04/2025,C1161,Smartphone,Electronics,4,39450,157800,Mysore,Karnataka,UPI,4
+10044,02/11/2025,C1153,Bedsheet,Home & Kitchen,4,1250,5000,Warangal,Telangana,Debit Card,4
+10045,22/05/2025,C1115,T-Shirt,Fashion,1,1100,1100,Chennai,Tamil Nadu,UPI,4
+10046,05/07/2025,C1063,Smartphone,Electronics,1,35250,35250,Hyderabad,Telangana,Net Banking,4
+10047,11/04/2025,C1008,Desk Lamp,Home & Kitchen,2,600,1200,Hyderabad,Telangana,Cash on Delivery,4
+10048,16/12/2025,C1047,Smartwatch,Electronics,2,10300,20600,Chennai,Tamil Nadu,Debit Card,5
+10049,07/06/2025,C1147,Jeans,Fashion,2,1200,2400,Mysore,Karnataka,Cash on Delivery,4
+10050,27/04/2025,C1062,Notebook,Books,2,400,800,Delhi,Delhi,Cash on Delivery,1
+10051,27/08/2025,C1034,Shoes,Fashion,2,3150,6300,Delhi,Delhi,UPI,5
+10052,08/07/2025,C1192,Bedsheet,Home & Kitchen,1,1900,1900,Coimbatore,Tamil Nadu,Credit Card,4
+10053,04/07/2025,C1029,Headphones,Electronics,2,5050,10100,Hubli,Karnataka,UPI,5
+10054,06/08/2025,C1176,Keyboard,Electronics,4,850,3400,Chennai,Tamil Nadu,Cash on Delivery,3
+10055,10/01/2025,C1069,Mouse,Electronics,1,1400,1400,Coimbatore,Tamil Nadu,Cash on Delivery,4
+10056,14/09/2025,C1069,Programming Book,Books,4,500,2000,Hubli,Karnataka,Debit Card,4
+10057,09/06/2025,C1084,Bedsheet,Home & Kitchen,5,2400,12000,Mysore,Karnataka,Credit Card,1
+10058,11/04/2025,C1012,Novel,Books,1,700,700,Bangalore,Karnataka,UPI,5
+10059,12/01/2025,C1095,Laptop,Electronics,5,72150,360750,Kochi,Kerala,UPI,3
+10060,03/04/2025,C1154,Notebook,Books,1,350,350,Bangalore,Karnataka,Debit Card,5
+10061,24/04/2025,C1075,Smartphone,Electronics,1,26950,26950,Chennai,Tamil Nadu,Cash on Delivery,5
+10062,23/12/2025,C1152,Mouse,Electronics,1,2100,2100,Pune,Maharashtra,Cash on Delivery,4
+10063,06/04/2025,C1152,Desk Lamp,Home & Kitchen,1,1350,1350,Mysore,Karnataka,Cash on Delivery,3
+10064,21/12/2025,C1105,Keyboard,Electronics,2,2350,4700,Ahmedabad,Gujarat,UPI,5
+10065,06/07/2025,C1019,Desk Lamp,Home & Kitchen,3,1500,4500,Pune,Maharashtra,UPI,4
+10066,11/10/2025,C1128,Smartwatch,Electronics,2,13800,27600,Kochi,Kerala,Credit Card,4
+10067,22/02/2025,C1151,Cookware Set,Home & Kitchen,5,3950,19750,Hubli,Karnataka,Cash on Delivery,4
+10068,11/08/2025,C1122,T-Shirt,Fashion,2,1400,2800,Delhi,Delhi,Credit Card,2
+10069,10/09/2025,C1007,Backpack,Fashion,1,1100,1100,Kochi,Kerala,Credit Card,5
+10070,05/01/2025,C1029,Jeans,Fashion,1,1750,1750,Kolkata,West Bengal,UPI,5
+10071,25/05/2025,C1071,Notebook,Books,5,250,1250,Bangalore,Karnataka,Net Banking,5
+10072,01/07/2025,C1167,Mouse,Electronics,2,1200,2400,Hubli,Karnataka,Credit Card,5
+10073,08/08/2025,C1126,Notebook,Books,4,250,1000,Ahmedabad,Gujarat,UPI,1
+10074,14/12/2025,C1190,Jeans,Fashion,2,2650,5300,Warangal,Telangana,Credit Card,5
+10075,27/02/2025,C1044,Desk Lamp,Home & Kitchen,1,2250,2250,Hyderabad,Telangana,Net Banking,4
+10076,09/09/2025,C1164,Coffee Maker,Home & Kitchen,2,3800,7600,Hyderabad,Telangana,Credit Card,5
+10077,23/05/2025,C1159,Programming Book,Books,1,1200,1200,Pune,Maharashtra,Net Banking,3
+10078,12/08/2025,C1016,Headphones,Electronics,5,6200,31000,Kolkata,West Bengal,Cash on Delivery,3
+10079,13/06/2025,C1090,Smartwatch,Electronics,5,10250,51250,Mumbai,Maharashtra,UPI,3
+10080,25/05/2025,C1161,Novel,Books,2,250,500,Pune,Maharashtra,Credit Card,3
+10081,10/09/2025,C1134,Coffee Maker,Home & Kitchen,2,3500,7000,Ahmedabad,Gujarat,Net Banking,5
+10082,30/08/2025,C1109,Keyboard,Electronics,4,4200,16800,Delhi,Delhi,UPI,5
+10083,09/10/2025,C1063,Laptop,Electronics,3,69300,207900,Bangalore,Karnataka,UPI,4
+10084,07/11/2025,C1006,Desk Lamp,Home & Kitchen,2,650,1300,Pune,Maharashtra,Debit Card,4
+10085,22/02/2025,C1165,Keyboard,Electronics,4,3550,14200,Hubli,Karnataka,Cash on Delivery,4
+10086,20/02/2025,C1173,Notebook,Books,1,200,200,Pune,Maharashtra,Debit Card,2
+10087,13/03/2025,C1039,Laptop,Electronics,1,67700,67700,Mysore,Karnataka,Debit Card,4
+10088,23/02/2025,C1133,Smartphone,Electronics,3,52950,158850,Kolkata,West Bengal,UPI,4
+10089,07/12/2025,C1142,Desk Lamp,Home & Kitchen,5,1450,7250,Warangal,Telangana,Debit Card,5
+10090,02/11/2025,C1098,Notebook,Books,4,150,600,Kochi,Kerala,Debit Card,5
+10091,15/06/2025,C1079,Cookware Set,Home & Kitchen,1,2000,2000,Mysore,Karnataka,UPI,4
+10092,03/07/2025,C1145,Jacket,Fashion,1,5450,5450,Ahmedabad,Gujarat,Credit Card,3
+10093,24/07/2025,C1126,Programming Book,Books,5,550,2750,Hyderabad,Telangana,Debit Card,4
+10094,02/12/2025,C1095,Bedsheet,Home & Kitchen,1,850,850,Pune,Maharashtra,Credit Card,4
+10095,14/07/2025,C1096,Bedsheet,Home & Kitchen,5,1000,5000,Chennai,Tamil Nadu,Credit Card,4
+10096,02/04/2025,C1170,Novel,Books,2,350,700,Hubli,Karnataka,UPI,5
+10097,03/02/2025,C1177,Monitor,Electronics,1,20200,20200,Kochi,Kerala,Credit Card,3
+10098,02/08/2025,C1056,Coffee Maker,Home & Kitchen,1,2050,2050,Pune,Maharashtra,Cash on Delivery,4
+10099,23/04/2025,C1099,Bedsheet,Home & Kitchen,2,700,1400,Chennai,Tamil Nadu,UPI,5
+10100,28/01/2025,C1078,Cookware Set,Home & Kitchen,4,3550,14200,Hyderabad,Telangana,Credit Card,3
+10101,03/01/2025,C1111,Coffee Maker,Home & Kitchen,1,2050,2050,Mumbai,Maharashtra,Cash on Delivery,3
+10102,15/08/2025,C1115,Backpack,Fashion,4,900,3600,Mysore,Karnataka,UPI,4
+10103,27/03/2025,C1126,Keyboard,Electronics,2,800,1600,Pune,Maharashtra,UPI,5
+10104,21/08/2025,C1109,Desk Lamp,Home & Kitchen,2,1700,3400,Chennai,Tamil Nadu,Credit Card,4
+10105,24/08/2025,C1083,Mouse,Electronics,4,1950,7800,Mumbai,Maharashtra,UPI,4
+10106,11/11/2025,C1109,Keyboard,Electronics,3,4100,12300,Mysore,Karnataka,UPI,3
+10107,22/04/2025,C1004,Laptop,Electronics,2,48050,96100,Hyderabad,Telangana,Cash on Delivery,4
+10108,11/08/2025,C1006,Shoes,Fashion,4,1450,5800,Mumbai,Maharashtra,UPI,5
+10109,03/03/2025,C1185,Backpack,Fashion,2,800,1600,Hyderabad,Telangana,Debit Card,3
+10110,22/11/2025,C1154,Backpack,Fashion,5,2100,10500,Ahmedabad,Gujarat,UPI,5
+10111,01/01/2025,C1090,Notebook,Books,2,300,600,Bangalore,Karnataka,Cash on Delivery,4
+10112,16/09/2025,C1161,Monitor,Electronics,2,19650,39300,Chennai,Tamil Nadu,UPI,4
+10113,17/06/2025,C1130,Jacket,Fashion,2,2150,4300,Kochi,Kerala,UPI,3
+10114,07/02/2025,C1163,Keyboard,Electronics,1,3600,3600,Kolkata,West Bengal,UPI,4
+10115,17/05/2025,C1162,Desk Lamp,Home & Kitchen,2,2150,4300,Kochi,Kerala,UPI,4
+10116,15/12/2025,C1072,Headphones,Electronics,1,6250,6250,Hyderabad,Telangana,Cash on Delivery,1
+10117,05/01/2025,C1083,Keyboard,Electronics,3,3750,11250,Hubli,Karnataka,Debit Card,3
+10118,24/11/2025,C1039,Mouse,Electronics,1,2250,2250,Pune,Maharashtra,Debit Card,5
+10119,02/06/2025,C1145,Notebook,Books,2,200,400,Warangal,Telangana,Cash on Delivery,4
+10120,17/07/2025,C1134,Smartphone,Electronics,3,15550,46650,Mumbai,Maharashtra,UPI,4
+10121,06/06/2025,C1033,Notebook,Books,5,400,2000,Chennai,Tamil Nadu,Credit Card,5
+10122,16/10/2025,C1196,T-Shirt,Fashion,1,1250,1250,Hyderabad,Telangana,Credit Card,5
+10123,08/06/2025,C1047,Jacket,Fashion,2,6350,12700,Bangalore,Karnataka,Cash on Delivery,2
+10124,16/02/2025,C1068,Programming Book,Books,5,1150,5750,Mumbai,Maharashtra,Debit Card,3
+10125,09/10/2025,C1043,Smartphone,Electronics,1,46000,46000,Hubli,Karnataka,Credit Card,4
+10126,19/07/2025,C1023,Programming Book,Books,1,1750,1750,Mumbai,Maharashtra,Credit Card,4
+10127,29/07/2025,C1111,Mixer Grinder,Home & Kitchen,1,3250,3250,Ahmedabad,Gujarat,Debit Card,3
+10128,20/10/2025,C1072,Backpack,Fashion,2,1100,2200,Chennai,Tamil Nadu,Debit Card,5
+10129,29/01/2025,C1040,Desk Lamp,Home & Kitchen,2,1250,2500,Pune,Maharashtra,Cash on Delivery,4
+10130,20/04/2025,C1164,Backpack,Fashion,4,1150,4600,Coimbatore,Tamil Nadu,UPI,5
+10131,29/05/2025,C1175,Laptop,Electronics,4,54350,217400,Hubli,Karnataka,UPI,4
+10132,18/10/2025,C1063,Shoes,Fashion,1,5050,5050,Coimbatore,Tamil Nadu,Credit Card,4
+10133,13/12/2025,C1017,Backpack,Fashion,3,1750,5250,Mysore,Karnataka,Credit Card,4
+10134,29/06/2025,C1198,Smartwatch,Electronics,1,4250,4250,Mumbai,Maharashtra,UPI,4
+10135,05/06/2025,C1114,Laptop,Electronics,1,68400,68400,Kolkata,West Bengal,Debit Card,4
+10136,08/12/2025,C1063,T-Shirt,Fashion,1,1450,1450,Bangalore,Karnataka,Net Banking,4
+10137,30/07/2025,C1062,Desk Lamp,Home & Kitchen,4,1700,6800,Ahmedabad,Gujarat,UPI,4
+10138,14/09/2025,C1078,Desk Lamp,Home & Kitchen,2,1250,2500,Mumbai,Maharashtra,Debit Card,4
+10139,15/06/2025,C1179,Novel,Books,1,650,650,Bangalore,Karnataka,UPI,4
+10140,23/09/2025,C1110,Laptop,Electronics,5,70850,354250,Warangal,Telangana,Credit Card,5
+10141,08/01/2025,C1065,Laptop,Electronics,4,74350,297400,Mysore,Karnataka,Credit Card,5
+10142,06/09/2025,C1067,Headphones,Electronics,5,2550,12750,Ahmedabad,Gujarat,Cash on Delivery,4
+10143,30/04/2025,C1046,Cookware Set,Home & Kitchen,5,2050,10250,Mumbai,Maharashtra,Cash on Delivery,5
+10144,07/11/2025,C1176,Mouse,Electronics,2,1800,3600,Coimbatore,Tamil Nadu,UPI,4
+10145,05/02/2025,C1029,Jacket,Fashion,4,5650,22600,Coimbatore,Tamil Nadu,Credit Card,1
+10146,14/07/2025,C1119,Smartphone,Electronics,1,55300,55300,Chennai,Tamil Nadu,UPI,4
+10147,21/12/2025,C1086,Keyboard,Electronics,2,2250,4500,Pune,Maharashtra,Cash on Delivery,4
+10148,08/05/2025,C1114,Desk Lamp,Home & Kitchen,1,1650,1650,Kolkata,West Bengal,UPI,5
+10149,20/07/2025,C1022,Mixer Grinder,Home & Kitchen,1,5900,5900,Ahmedabad,Gujarat,Cash on Delivery,4
+10150,20/10/2025,C1075,Mouse,Electronics,1,1500,1500,Ahmedabad,Gujarat,Cash on Delivery,5
+10151,02/06/2025,C1122,Jacket,Fashion,2,4400,8800,Mysore,Karnataka,Debit Card,4
+10152,07/08/2025,C1168,Jacket,Fashion,3,2500,7500,Pune,Maharashtra,UPI,3
+10153,09/07/2025,C1122,Coffee Maker,Home & Kitchen,1,4850,4850,Delhi,Delhi,Credit Card,5
+10154,19/10/2025,C1115,Smartphone,Electronics,2,62800,125600,Bangalore,Karnataka,UPI,2
+10155,22/10/2025,C1054,Backpack,Fashion,5,2000,10000,Chennai,Tamil Nadu,Credit Card,5
+10156,07/09/2025,C1036,Cookware Set,Home & Kitchen,5,6650,33250,Coimbatore,Tamil Nadu,Credit Card,4
+10157,31/12/2025,C1154,Notebook,Books,1,450,450,Bangalore,Karnataka,Credit Card,4
+10158,14/04/2025,C1042,Shoes,Fashion,1,2900,2900,Bangalore,Karnataka,Credit Card,4
+10159,12/04/2025,C1098,Headphones,Electronics,1,1750,1750,Kochi,Kerala,UPI,5
+10160,26/11/2025,C1057,Keyboard,Electronics,2,3750,7500,Bangalore,Karnataka,Credit Card,3
+10161,29/05/2025,C1081,Cookware Set,Home & Kitchen,2,4500,9000,Mumbai,Maharashtra,Debit Card,5
+10162,23/05/2025,C1059,Bedsheet,Home & Kitchen,3,2450,7350,Mysore,Karnataka,Net Banking,4
+10163,09/10/2025,C1086,Coffee Maker,Home & Kitchen,1,2050,2050,Delhi,Delhi,Net Banking,4
+10164,24/11/2025,C1059,Mixer Grinder,Home & Kitchen,4,6950,27800,Pune,Maharashtra,Net Banking,3
+10165,13/04/2025,C1017,Novel,Books,4,900,3600,Warangal,Telangana,Debit Card,4
+10166,20/06/2025,C1168,Headphones,Electronics,2,2000,4000,Mysore,Karnataka,Credit Card,5
+10167,29/07/2025,C1161,Smartwatch,Electronics,4,6450,25800,Bangalore,Karnataka,Cash on Delivery,4
+10168,03/02/2025,C1158,Jacket,Fashion,2,3000,6000,Warangal,Telangana,UPI,4
+10169,29/10/2025,C1029,Coffee Maker,Home & Kitchen,2,4200,8400,Hubli,Karnataka,Cash on Delivery,2
+10170,23/09/2025,C1158,Smartwatch,Electronics,1,9750,9750,Kochi,Kerala,Credit Card,5
+10171,22/05/2025,C1120,T-Shirt,Fashion,2,1200,2400,Bangalore,Karnataka,UPI,2
+10172,14/03/2025,C1143,Mouse,Electronics,1,900,900,Pune,Maharashtra,UPI,3
+10173,17/07/2025,C1039,Mouse,Electronics,2,2400,4800,Coimbatore,Tamil Nadu,Cash on Delivery,5
+10174,18/07/2025,C1052,Mixer Grinder,Home & Kitchen,5,5400,27000,Ahmedabad,Gujarat,UPI,5
+10175,26/11/2025,C1107,Jeans,Fashion,2,2650,5300,Hyderabad,Telangana,UPI,4
+10176,18/09/2025,C1054,Shoes,Fashion,1,5800,5800,Mumbai,Maharashtra,Net Banking,4
+10177,27/06/2025,C1082,Desk Lamp,Home & Kitchen,1,2350,2350,Delhi,Delhi,Debit Card,4
+10178,30/03/2025,C1073,Headphones,Electronics,5,4350,21750,Ahmedabad,Gujarat,Cash on Delivery,3
+10179,29/01/2025,C1137,Keyboard,Electronics,1,2450,2450,Mumbai,Maharashtra,UPI,3
+10180,14/08/2025,C1124,Smartphone,Electronics,2,13900,27800,Mumbai,Maharashtra,UPI,5
+10181,06/02/2025,C1060,Jeans,Fashion,1,2400,2400,Delhi,Delhi,UPI,4
+10182,14/11/2025,C1093,Keyboard,Electronics,2,3950,7900,Mumbai,Maharashtra,Net Banking,5
+10183,25/08/2025,C1033,Headphones,Electronics,5,5700,28500,Mumbai,Maharashtra,Cash on Delivery,4
+10184,31/10/2025,C1169,Notebook,Books,5,350,1750,Bangalore,Karnataka,UPI,3
+10185,07/07/2025,C1007,Coffee Maker,Home & Kitchen,1,7550,7550,Chennai,Tamil Nadu,Cash on Delivery,4
+10186,09/06/2025,C1107,Coffee Maker,Home & Kitchen,1,4700,4700,Warangal,Telangana,UPI,1
+10187,12/01/2025,C1039,T-Shirt,Fashion,4,400,1600,Mysore,Karnataka,UPI,5
+10188,11/08/2025,C1098,Coffee Maker,Home & Kitchen,3,3800,11400,Pune,Maharashtra,Debit Card,4
+10189,15/03/2025,C1063,Coffee Maker,Home & Kitchen,1,2600,2600,Hubli,Karnataka,UPI,5
+10190,18/12/2025,C1068,Cookware Set,Home & Kitchen,3,5650,16950,Hyderabad,Telangana,UPI,5
+10191,22/01/2025,C1120,Desk Lamp,Home & Kitchen,2,650,1300,Delhi,Delhi,UPI,4
+10192,08/09/2025,C1180,Novel,Books,3,1000,3000,Ahmedabad,Gujarat,Cash on Delivery,4
+10193,27/02/2025,C1026,T-Shirt,Fashion,2,400,800,Hyderabad,Telangana,UPI,4
+10194,08/02/2025,C1015,Smartphone,Electronics,2,62050,124100,Hubli,Karnataka,Cash on Delivery,4
+10195,27/01/2025,C1195,Backpack,Fashion,2,3050,6100,Chennai,Tamil Nadu,Net Banking,5
+10196,23/12/2025,C1187,Smartwatch,Electronics,5,7900,39500,Coimbatore,Tamil Nadu,Net Banking,5
+10197,15/01/2025,C1162,Notebook,Books,1,300,300,Kolkata,West Bengal,UPI,4
+10198,27/07/2025,C1027,Desk Lamp,Home & Kitchen,1,1950,1950,Mysore,Karnataka,Net Banking,5
+10199,27/01/2025,C1174,Mixer Grinder,Home & Kitchen,1,8100,8100,Coimbatore,Tamil Nadu,Credit Card,3
+10200,12/11/2025,C1122,T-Shirt,Fashion,1,1300,1300,Kochi,Kerala,Debit Card,1
+10201,24/08/2025,C1084,Mixer Grinder,Home & Kitchen,4,5450,21800,Warangal,Telangana,Credit Card,2
+10202,27/04/2025,C1130,Monitor,Electronics,5,19300,96500,Hyderabad,Telangana,Cash on Delivery,4
+10203,16/11/2025,C1082,Backpack,Fashion,5,2050,10250,Mumbai,Maharashtra,Credit Card,4
+10204,12/04/2025,C1169,Monitor,Electronics,5,22800,114000,Pune,Maharashtra,UPI,5
+10205,09/06/2025,C1080,Notebook,Books,5,150,750,Kochi,Kerala,Credit Card,5
+10206,02/01/2025,C1033,Programming Book,Books,1,1250,1250,Mysore,Karnataka,Cash on Delivery,4
+10207,15/06/2025,C1103,Laptop,Electronics,2,47350,94700,Hyderabad,Telangana,UPI,4
+10208,26/12/2025,C1061,Novel,Books,4,350,1400,Warangal,Telangana,Debit Card,5
+10209,10/02/2025,C1114,Monitor,Electronics,1,28650,28650,Warangal,Telangana,Net Banking,4
+10210,08/09/2025,C1127,Jeans,Fashion,1,2200,2200,Chennai,Tamil Nadu,UPI,4
+10211,03/01/2025,C1127,Programming Book,Books,5,1200,6000,Delhi,Delhi,Credit Card,5
+10212,12/01/2025,C1141,Jacket,Fashion,3,2200,6600,Hyderabad,Telangana,Credit Card,4
+10213,09/08/2025,C1119,Notebook,Books,1,250,250,Chennai,Tamil Nadu,Credit Card,5
+10214,06/02/2025,C1096,Notebook,Books,2,300,600,Mysore,Karnataka,Credit Card,5
+10215,26/07/2025,C1097,Headphones,Electronics,2,2550,5100,Hubli,Karnataka,Cash on Delivery,3
+10216,20/10/2025,C1004,Desk Lamp,Home & Kitchen,3,2400,7200,Delhi,Delhi,Debit Card,5
+10217,15/04/2025,C1164,Programming Book,Books,2,550,1100,Bangalore,Karnataka,UPI,4
+10218,22/10/2025,C1170,Smartphone,Electronics,5,44150,220750,Mysore,Karnataka,Net Banking,5
+10219,13/08/2025,C1099,Smartwatch,Electronics,1,10300,10300,Mumbai,Maharashtra,Cash on Delivery,5
+10220,30/11/2025,C1002,Mouse,Electronics,5,1650,8250,Delhi,Delhi,UPI,3
+10221,21/04/2025,C1014,Keyboard,Electronics,3,2550,7650,Hyderabad,Telangana,Credit Card,5
+10222,28/01/2025,C1066,Programming Book,Books,1,600,600,Bangalore,Karnataka,Cash on Delivery,4
+10223,28/10/2025,C1151,Keyboard,Electronics,4,2950,11800,Kochi,Kerala,Credit Card,3
+10224,28/11/2025,C1094,Backpack,Fashion,1,1000,1000,Delhi,Delhi,UPI,4
+10225,05/03/2025,C1118,Keyboard,Electronics,2,2950,5900,Kochi,Kerala,UPI,5
+10226,30/04/2025,C1044,Backpack,Fashion,2,1750,3500,Kochi,Kerala,Credit Card,4
+10227,30/11/2025,C1130,Cookware Set,Home & Kitchen,4,4550,18200,Kolkata,West Bengal,UPI,2
+10228,17/07/2025,C1059,Keyboard,Electronics,2,900,1800,Bangalore,Karnataka,UPI,2
+10229,30/08/2025,C1043,Desk Lamp,Home & Kitchen,1,600,600,Delhi,Delhi,UPI,4
+10230,27/06/2025,C1151,Novel,Books,2,900,1800,Mumbai,Maharashtra,Debit Card,4
+10231,22/08/2025,C1124,Programming Book,Books,4,550,2200,Ahmedabad,Gujarat,Debit Card,3
+10232,24/12/2025,C1005,Novel,Books,2,300,600,Mumbai,Maharashtra,Net Banking,3
+10233,24/04/2025,C1145,Cookware Set,Home & Kitchen,1,5150,5150,Warangal,Telangana,Cash on Delivery,5
+10234,29/10/2025,C1196,Cookware Set,Home & Kitchen,5,5750,28750,Kolkata,West Bengal,Debit Card,5
+10235,27/12/2025,C1090,Notebook,Books,4,350,1400,Coimbatore,Tamil Nadu,UPI,5
+10236,30/03/2025,C1176,Smartphone,Electronics,1,44050,44050,Pune,Maharashtra,Cash on Delivery,5
+10237,12/04/2025,C1132,Coffee Maker,Home & Kitchen,4,6400,25600,Chennai,Tamil Nadu,Debit Card,5
+10238,31/12/2025,C1075,Monitor,Electronics,1,25000,25000,Pune,Maharashtra,UPI,4
+10239,18/07/2025,C1143,T-Shirt,Fashion,1,750,750,Bangalore,Karnataka,Debit Card,4
+10240,24/09/2025,C1099,Laptop,Electronics,1,61350,61350,Hubli,Karnataka,UPI,3
+10241,09/10/2025,C1072,Mixer Grinder,Home & Kitchen,1,7350,7350,Pune,Maharashtra,Credit Card,4
+10242,13/05/2025,C1048,Monitor,Electronics,2,9550,19100,Delhi,Delhi,Credit Card,2
+10243,30/12/2025,C1123,Smartwatch,Electronics,2,10100,20200,Warangal,Telangana,Credit Card,5
+10244,08/10/2025,C1036,Backpack,Fashion,4,3200,12800,Coimbatore,Tamil Nadu,Net Banking,5
+10245,30/11/2025,C1125,Cookware Set,Home & Kitchen,2,6650,13300,Hyderabad,Telangana,Debit Card,3
+10246,24/05/2025,C1106,Programming Book,Books,3,900,2700,Kochi,Kerala,Debit Card,4
+10247,16/12/2025,C1007,Novel,Books,1,400,400,Chennai,Tamil Nadu,Debit Card,5
+10248,29/08/2025,C1170,Jacket,Fashion,4,4550,18200,Warangal,Telangana,UPI,3
+10249,21/06/2025,C1120,Mouse,Electronics,2,1400,2800,Warangal,Telangana,Credit Card,5
+10250,02/08/2025,C1137,Cookware Set,Home & Kitchen,1,1500,1500,Hyderabad,Telangana,Cash on Delivery,5
+10251,13/03/2025,C1152,Cookware Set,Home & Kitchen,1,2450,2450,Pune,Maharashtra,UPI,5
+10252,16/06/2025,C1089,Keyboard,Electronics,2,1750,3500,Hubli,Karnataka,UPI,5
+10253,18/02/2025,C1108,Mouse,Electronics,1,1350,1350,Mysore,Karnataka,Cash on Delivery,3
+10254,09/06/2025,C1011,Desk Lamp,Home & Kitchen,3,550,1650,Hubli,Karnataka,UPI,4
+10255,18/10/2025,C1007,Mixer Grinder,Home & Kitchen,2,6250,12500,Pune,Maharashtra,Debit Card,5
+10256,07/10/2025,C1188,Headphones,Electronics,1,4100,4100,Warangal,Telangana,Cash on Delivery,5
+10257,05/02/2025,C1097,Mouse,Electronics,1,1100,1100,Warangal,Telangana,Credit Card,5
+10258,15/07/2025,C1013,Shoes,Fashion,5,2950,14750,Hyderabad,Telangana,Credit Card,4
+10259,21/09/2025,C1200,Smartphone,Electronics,2,54400,108800,Kolkata,West Bengal,Debit Card,4
+10260,03/08/2025,C1172,Smartwatch,Electronics,2,8200,16400,Hyderabad,Telangana,Debit Card,5
+10261,27/10/2025,C1186,Desk Lamp,Home & Kitchen,1,1950,1950,Chennai,Tamil Nadu,Net Banking,2
+10262,16/04/2025,C1190,Coffee Maker,Home & Kitchen,2,6100,12200,Pune,Maharashtra,Credit Card,3
+10263,03/01/2025,C1144,Bedsheet,Home & Kitchen,2,1350,2700,Kochi,Kerala,UPI,5
+10264,30/12/2025,C1065,Notebook,Books,5,100,500,Chennai,Tamil Nadu,Cash on Delivery,5
+10265,10/06/2025,C1016,Programming Book,Books,3,850,2550,Mumbai,Maharashtra,Credit Card,5
+10266,24/04/2025,C1066,Programming Book,Books,1,600,600,Chennai,Tamil Nadu,UPI,4
+10267,29/06/2025,C1190,Smartphone,Electronics,1,24650,24650,Bangalore,Karnataka,Credit Card,4
+10268,23/05/2025,C1086,Mouse,Electronics,1,1500,1500,Hubli,Karnataka,Credit Card,5
+10269,23/03/2025,C1173,Programming Book,Books,1,1150,1150,Bangalore,Karnataka,UPI,2
+10270,14/01/2025,C1073,Jacket,Fashion,3,5550,16650,Hubli,Karnataka,UPI,5
+10271,03/10/2025,C1010,Headphones,Electronics,1,2250,2250,Hubli,Karnataka,Cash on Delivery,4
+10272,06/11/2025,C1125,Laptop,Electronics,2,63200,126400,Bangalore,Karnataka,UPI,4
+10273,25/01/2025,C1079,Headphones,Electronics,1,6800,6800,Ahmedabad,Gujarat,Net Banking,4
+10274,30/11/2025,C1020,Smartwatch,Electronics,5,4050,20250,Kochi,Kerala,Credit Card,4
+10275,14/10/2025,C1005,Monitor,Electronics,5,13550,67750,Mysore,Karnataka,Cash on Delivery,5
+10276,25/02/2025,C1083,Jacket,Fashion,1,2100,2100,Kolkata,West Bengal,UPI,5
+10277,09/09/2025,C1097,Shoes,Fashion,2,2650,5300,Hubli,Karnataka,Credit Card,3
+10278,09/08/2025,C1052,T-Shirt,Fashion,5,1300,6500,Warangal,Telangana,Debit Card,3
+10279,03/03/2025,C1007,Monitor,Electronics,4,24200,96800,Coimbatore,Tamil Nadu,Credit Card,5
+10280,02/07/2025,C1130,Mixer Grinder,Home & Kitchen,4,7200,28800,Hyderabad,Telangana,UPI,5
+10281,06/03/2025,C1013,Monitor,Electronics,4,21250,85000,Warangal,Telangana,UPI,3
+10282,09/06/2025,C1164,Novel,Books,2,1000,2000,Mysore,Karnataka,UPI,2
+10283,02/07/2025,C1117,Desk Lamp,Home & Kitchen,2,1800,3600,Coimbatore,Tamil Nadu,Credit Card,5
+10284,15/08/2025,C1180,Mouse,Electronics,1,1100,1100,Kochi,Kerala,Cash on Delivery,5
+10285,17/01/2025,C1120,Jacket,Fashion,2,6750,13500,Bangalore,Karnataka,UPI,5
+10286,30/08/2025,C1058,Laptop,Electronics,1,58150,58150,Ahmedabad,Gujarat,UPI,3
+10287,02/08/2025,C1200,Jeans,Fashion,2,2650,5300,Warangal,Telangana,UPI,5
+10288,28/03/2025,C1101,Desk Lamp,Home & Kitchen,2,1400,2800,Ahmedabad,Gujarat,UPI,3
+10289,01/06/2025,C1017,Jeans,Fashion,1,2450,2450,Bangalore,Karnataka,Net Banking,2
+10290,30/07/2025,C1135,Jeans,Fashion,1,1850,1850,Chennai,Tamil Nadu,Cash on Delivery,4
+10291,18/12/2025,C1008,Notebook,Books,1,250,250,Coimbatore,Tamil Nadu,UPI,5
+10292,16/05/2025,C1104,Monitor,Electronics,4,10750,43000,Kochi,Kerala,Debit Card,5
+10293,20/11/2025,C1078,Smartphone,Electronics,4,22900,91600,Bangalore,Karnataka,UPI,3
+10294,15/09/2025,C1118,Novel,Books,1,850,850,Kochi,Kerala,Credit Card,4
+10295,28/09/2025,C1017,Bedsheet,Home & Kitchen,5,1800,9000,Mysore,Karnataka,Net Banking,2
+10296,24/04/2025,C1022,Shoes,Fashion,1,3000,3000,Kochi,Kerala,UPI,4
+10297,02/05/2025,C1032,Programming Book,Books,2,1400,2800,Hubli,Karnataka,UPI,5
+10298,29/05/2025,C1126,T-Shirt,Fashion,1,700,700,Mysore,Karnataka,Cash on Delivery,4
+10299,13/09/2025,C1086,Jeans,Fashion,3,2550,7650,Kochi,Kerala,Cash on Delivery,2
+10300,10/10/2025,C1050,Coffee Maker,Home & Kitchen,1,2450,2450,Coimbatore,Tamil Nadu,UPI,5
+10301,08/07/2025,C1097,Notebook,Books,4,450,1800,Ahmedabad,Gujarat,Credit Card,4
+10302,08/10/2025,C1128,Notebook,Books,4,400,1600,Warangal,Telangana,Credit Card,4
+10303,18/09/2025,C1003,Jeans,Fashion,1,2050,2050,Mumbai,Maharashtra,Net Banking,3
+10304,10/01/2025,C1149,Jeans,Fashion,1,1750,1750,Delhi,Delhi,Debit Card,5
+10305,27/03/2025,C1090,T-Shirt,Fashion,1,600,600,Pune,Maharashtra,Cash on Delivery,4
+10306,20/01/2025,C1075,Smartwatch,Electronics,1,2650,2650,Pune,Maharashtra,Cash on Delivery,5
+10307,12/05/2025,C1020,Monitor,Electronics,5,19550,97750,Delhi,Delhi,Cash on Delivery,4
+10308,25/12/2025,C1149,Headphones,Electronics,1,3850,3850,Coimbatore,Tamil Nadu,UPI,1
+10309,29/04/2025,C1071,Mixer Grinder,Home & Kitchen,2,3450,6900,Ahmedabad,Gujarat,Credit Card,2
+10310,11/09/2025,C1024,Mixer Grinder,Home & Kitchen,1,2650,2650,Delhi,Delhi,Debit Card,4
+10311,15/11/2025,C1110,Novel,Books,1,400,400,Kochi,Kerala,UPI,4
+10312,22/12/2025,C1192,Coffee Maker,Home & Kitchen,2,6650,13300,Hyderabad,Telangana,Credit Card,3
+10313,26/05/2025,C1063,Coffee Maker,Home & Kitchen,2,2550,5100,Bangalore,Karnataka,UPI,4
+10314,17/07/2025,C1004,Cookware Set,Home & Kitchen,1,5550,5550,Hyderabad,Telangana,Credit Card,4
+10315,17/05/2025,C1090,Cookware Set,Home & Kitchen,1,5250,5250,Kochi,Kerala,Credit Card,4
+10316,23/04/2025,C1094,Programming Book,Books,2,1750,3500,Hubli,Karnataka,Cash on Delivery,1
+10317,04/02/2025,C1046,Coffee Maker,Home & Kitchen,3,5000,15000,Ahmedabad,Gujarat,UPI,5
+10318,15/03/2025,C1192,Keyboard,Electronics,2,2450,4900,Chennai,Tamil Nadu,Credit Card,5
+10319,09/05/2025,C1024,Monitor,Electronics,1,10700,10700,Warangal,Telangana,Debit Card,5
+10320,26/02/2025,C1031,Monitor,Electronics,1,12350,12350,Kochi,Kerala,Net Banking,3
+10321,08/12/2025,C1135,Mouse,Electronics,2,550,1100,Kochi,Kerala,UPI,1
+10322,05/08/2025,C1070,Mixer Grinder,Home & Kitchen,5,8850,44250,Hyderabad,Telangana,UPI,4
+10323,29/12/2025,C1185,Coffee Maker,Home & Kitchen,2,2000,4000,Chennai,Tamil Nadu,UPI,4
+10324,09/06/2025,C1148,Novel,Books,1,800,800,Hyderabad,Telangana,UPI,5
+10325,22/05/2025,C1057,Bedsheet,Home & Kitchen,4,1400,5600,Delhi,Delhi,Credit Card,4
+10326,01/11/2025,C1147,Novel,Books,2,700,1400,Delhi,Delhi,UPI,3
+10327,15/07/2025,C1127,Smartwatch,Electronics,1,4800,4800,Bangalore,Karnataka,UPI,3
+10328,02/03/2025,C1098,T-Shirt,Fashion,3,1000,3000,Bangalore,Karnataka,Credit Card,5
+10329,17/07/2025,C1098,Backpack,Fashion,1,2950,2950,Bangalore,Karnataka,Credit Card,4
+10330,08/04/2025,C1144,Keyboard,Electronics,1,3200,3200,Pune,Maharashtra,Credit Card,5
+10331,28/02/2025,C1138,T-Shirt,Fashion,3,700,2100,Mumbai,Maharashtra,Net Banking,2
+10332,03/06/2025,C1127,Notebook,Books,4,300,1200,Warangal,Telangana,Cash on Delivery,5
+10333,02/08/2025,C1116,Programming Book,Books,3,500,1500,Mumbai,Maharashtra,Cash on Delivery,5
+10334,07/03/2025,C1153,Shoes,Fashion,5,5950,29750,Delhi,Delhi,UPI,4
+10335,19/09/2025,C1167,Headphones,Electronics,5,3100,15500,Delhi,Delhi,Debit Card,4
+10336,25/09/2025,C1074,Novel,Books,1,800,800,Hubli,Karnataka,UPI,3
+10337,16/02/2025,C1143,Shoes,Fashion,2,2550,5100,Mumbai,Maharashtra,Net Banking,5
+10338,20/09/2025,C1080,Jeans,Fashion,1,1250,1250,Chennai,Tamil Nadu,Cash on Delivery,4
+10339,08/08/2025,C1129,Headphones,Electronics,1,3100,3100,Mumbai,Maharashtra,UPI,4
+10340,03/09/2025,C1019,Jeans,Fashion,2,2450,4900,Kolkata,West Bengal,Cash on Delivery,4
+10341,21/01/2025,C1158,Smartwatch,Electronics,1,8800,8800,Bangalore,Karnataka,Debit Card,4
+10342,10/10/2025,C1069,Mouse,Electronics,2,2250,4500,Kolkata,West Bengal,Credit Card,3
+10343,13/05/2025,C1189,Laptop,Electronics,2,66600,133200,Mysore,Karnataka,UPI,3
+10344,30/12/2025,C1108,Shoes,Fashion,2,5600,11200,Hyderabad,Telangana,UPI,5
+10345,04/10/2025,C1156,Smartphone,Electronics,3,55900,167700,Kochi,Kerala,Cash on Delivery,4
+10346,04/12/2025,C1058,Laptop,Electronics,2,57600,115200,Mysore,Karnataka,Debit Card,4
+10347,16/12/2025,C1015,Bedsheet,Home & Kitchen,5,1350,6750,Coimbatore,Tamil Nadu,UPI,5
+10348,05/09/2025,C1156,Laptop,Electronics,2,67200,134400,Mysore,Karnataka,Debit Card,4
+10349,09/12/2025,C1128,Monitor,Electronics,1,22750,22750,Bangalore,Karnataka,Debit Card,5
+10350,21/01/2025,C1057,Mouse,Electronics,1,1500,1500,Hyderabad,Telangana,UPI,4
+10351,21/12/2025,C1077,Mixer Grinder,Home & Kitchen,2,8600,17200,Kochi,Kerala,Cash on Delivery,3
+10352,01/04/2025,C1098,Notebook,Books,1,450,450,Kolkata,West Bengal,Credit Card,4
+10353,27/05/2025,C1030,Monitor,Electronics,3,27150,81450,Mumbai,Maharashtra,Cash on Delivery,2
+10354,12/04/2025,C1150,Programming Book,Books,1,550,550,Mumbai,Maharashtra,Cash on Delivery,1
+10355,11/10/2025,C1173,Notebook,Books,3,450,1350,Delhi,Delhi,Net Banking,5
+10356,30/04/2025,C1166,Shoes,Fashion,1,4200,4200,Pune,Maharashtra,UPI,3
+10357,04/11/2025,C1089,Mouse,Electronics,5,950,4750,Pune,Maharashtra,Cash on Delivery,1
+10358,09/03/2025,C1008,Headphones,Electronics,1,3250,3250,Pune,Maharashtra,Cash on Delivery,1
+10359,03/03/2025,C1113,Mixer Grinder,Home & Kitchen,3,8250,24750,Warangal,Telangana,UPI,4
+10360,29/05/2025,C1069,Smartwatch,Electronics,1,5850,5850,Mysore,Karnataka,UPI,4
+10361,20/11/2025,C1035,Keyboard,Electronics,1,2550,2550,Coimbatore,Tamil Nadu,Cash on Delivery,2
+10362,17/03/2025,C1174,Laptop,Electronics,5,60500,302500,Mumbai,Maharashtra,Cash on Delivery,4
+10363,21/01/2025,C1051,Shoes,Fashion,1,5500,5500,Ahmedabad,Gujarat,Credit Card,3
+10364,17/03/2025,C1173,Notebook,Books,2,350,700,Kochi,Kerala,Net Banking,2
+10365,14/09/2025,C1072,Smartwatch,Electronics,1,5900,5900,Kolkata,West Bengal,Debit Card,5
+10366,19/09/2025,C1027,Monitor,Electronics,3,14350,43050,Bangalore,Karnataka,UPI,1
+10367,22/05/2025,C1035,Jacket,Fashion,1,4150,4150,Ahmedabad,Gujarat,Credit Card,4
+10368,29/10/2025,C1113,Programming Book,Books,5,1250,6250,Ahmedabad,Gujarat,UPI,1
+10369,02/09/2025,C1177,Backpack,Fashion,2,1100,2200,Delhi,Delhi,UPI,4
+10370,06/02/2025,C1049,Jacket,Fashion,1,2050,2050,Pune,Maharashtra,Debit Card,4
+10371,11/07/2025,C1011,Notebook,Books,1,300,300,Pune,Maharashtra,UPI,1
+10372,18/04/2025,C1019,Backpack,Fashion,2,3300,6600,Ahmedabad,Gujarat,Credit Card,4
+10373,28/10/2025,C1090,Jeans,Fashion,2,2400,4800,Kochi,Kerala,Net Banking,5
+10374,03/08/2025,C1177,Keyboard,Electronics,5,4000,20000,Warangal,Telangana,Debit Card,5
+10375,23/03/2025,C1147,Novel,Books,1,300,300,Bangalore,Karnataka,Credit Card,4
+10376,23/05/2025,C1041,Jeans,Fashion,2,2800,5600,Kochi,Kerala,Net Banking,2
+10377,29/07/2025,C1051,Shoes,Fashion,1,2950,2950,Kolkata,West Bengal,Net Banking,4
+10378,02/01/2025,C1093,T-Shirt,Fashion,2,600,1200,Hyderabad,Telangana,UPI,2
+10379,25/09/2025,C1163,Bedsheet,Home & Kitchen,3,950,2850,Bangalore,Karnataka,Credit Card,5
+10380,07/05/2025,C1153,Coffee Maker,Home & Kitchen,4,2050,8200,Coimbatore,Tamil Nadu,Debit Card,5
+10381,09/04/2025,C1173,Monitor,Electronics,2,17150,34300,Kolkata,West Bengal,UPI,4
+10382,14/07/2025,C1156,Monitor,Electronics,1,21400,21400,Kochi,Kerala,Credit Card,5
+10383,09/11/2025,C1118,Shoes,Fashion,4,1650,6600,Kolkata,West Bengal,Debit Card,4
+10384,07/01/2025,C1196,Laptop,Electronics,5,56250,281250,Mumbai,Maharashtra,UPI,3
+10385,06/05/2025,C1139,Laptop,Electronics,1,73400,73400,Hubli,Karnataka,UPI,1
+10386,23/07/2025,C1065,Monitor,Electronics,5,21700,108500,Mysore,Karnataka,UPI,5
+10387,08/03/2025,C1075,Desk Lamp,Home & Kitchen,2,2450,4900,Mumbai,Maharashtra,UPI,5
+10388,02/11/2025,C1006,Mixer Grinder,Home & Kitchen,3,8500,25500,Kolkata,West Bengal,Cash on Delivery,3
+10389,06/02/2025,C1170,Cookware Set,Home & Kitchen,2,3100,6200,Coimbatore,Tamil Nadu,UPI,5
+10390,12/10/2025,C1077,Headphones,Electronics,4,4200,16800,Mysore,Karnataka,Debit Card,5
+10391,14/06/2025,C1049,Programming Book,Books,1,1000,1000,Hyderabad,Telangana,Credit Card,4
+10392,11/02/2025,C1098,Coffee Maker,Home & Kitchen,3,3350,10050,Warangal,Telangana,UPI,4
+10393,19/05/2025,C1103,Notebook,Books,1,100,100,Kochi,Kerala,Credit Card,3
+10394,21/04/2025,C1098,Laptop,Electronics,2,62500,125000,Ahmedabad,Gujarat,Credit Card,4
+10395,02/08/2025,C1152,Notebook,Books,2,500,1000,Kochi,Kerala,Debit Card,4
+10396,11/04/2025,C1164,Keyboard,Electronics,4,2200,8800,Kochi,Kerala,Net Banking,5
+10397,03/09/2025,C1139,Smartphone,Electronics,1,30750,30750,Kochi,Kerala,Credit Card,1
+10398,12/01/2025,C1070,Keyboard,Electronics,1,3300,3300,Pune,Maharashtra,UPI,5
+10399,11/03/2025,C1183,Notebook,Books,1,500,500,Kochi,Kerala,UPI,5
+10400,22/07/2025,C1192,Monitor,Electronics,1,13250,13250,Mumbai,Maharashtra,Credit Card,4
+10401,24/06/2025,C1004,Novel,Books,1,900,900,Kolkata,West Bengal,Cash on Delivery,4
+10402,03/12/2025,C1081,Headphones,Electronics,5,7950,39750,Mumbai,Maharashtra,Cash on Delivery,5
+10403,13/01/2025,C1175,Jeans,Fashion,1,1550,1550,Hubli,Karnataka,Debit Card,4
+10404,19/11/2025,C1054,Bedsheet,Home & Kitchen,1,1550,1550,Ahmedabad,Gujarat,Credit Card,1
+10405,13/10/2025,C1057,Bedsheet,Home & Kitchen,2,2150,4300,Mumbai,Maharashtra,Cash on Delivery,5
+10406,23/11/2025,C1030,Headphones,Electronics,1,2550,2550,Delhi,Delhi,UPI,5
+10407,21/05/2025,C1136,Laptop,Electronics,2,70000,140000,Bangalore,Karnataka,Cash on Delivery,2
+10408,14/04/2025,C1023,Shoes,Fashion,4,5450,21800,Hubli,Karnataka,Credit Card,4
+10409,13/03/2025,C1003,Mixer Grinder,Home & Kitchen,3,4950,14850,Hyderabad,Telangana,Debit Card,4
+10410,03/05/2025,C1102,Coffee Maker,Home & Kitchen,2,6150,12300,Ahmedabad,Gujarat,UPI,5
+10411,24/12/2025,C1188,Jeans,Fashion,1,1950,1950,Delhi,Delhi,UPI,3
+10412,03/08/2025,C1120,Coffee Maker,Home & Kitchen,5,3650,18250,Kochi,Kerala,Credit Card,5
+10413,26/09/2025,C1021,T-Shirt,Fashion,2,1350,2700,Bangalore,Karnataka,UPI,4
+10414,01/02/2025,C1190,Notebook,Books,1,400,400,Bangalore,Karnataka,Credit Card,5
+10415,14/01/2025,C1178,Mouse,Electronics,5,1550,7750,Chennai,Tamil Nadu,Debit Card,5
+10416,17/09/2025,C1059,Programming Book,Books,2,1550,3100,Hyderabad,Telangana,Cash on Delivery,4
+10417,20/12/2025,C1127,Novel,Books,2,600,1200,Mysore,Karnataka,UPI,3
+10418,03/06/2025,C1018,Smartwatch,Electronics,1,6450,6450,Bangalore,Karnataka,UPI,4
+10419,21/11/2025,C1172,Monitor,Electronics,1,10300,10300,Mysore,Karnataka,Debit Card,4
+10420,11/06/2025,C1172,Backpack,Fashion,1,1750,1750,Hubli,Karnataka,Credit Card,4
+10421,22/04/2025,C1056,Novel,Books,4,950,3800,Hubli,Karnataka,Net Banking,5
+10422,12/11/2025,C1120,Keyboard,Electronics,1,3300,3300,Delhi,Delhi,Debit Card,4
+10423,24/01/2025,C1108,Cookware Set,Home & Kitchen,4,2900,11600,Kolkata,West Bengal,UPI,5
+10424,30/07/2025,C1140,Mouse,Electronics,4,2400,9600,Pune,Maharashtra,Net Banking,2
+10425,10/02/2025,C1099,Desk Lamp,Home & Kitchen,2,1500,3000,Warangal,Telangana,Credit Card,4
+10426,13/01/2025,C1141,Novel,Books,5,500,2500,Kochi,Kerala,Credit Card,1
+10427,10/04/2025,C1109,Smartphone,Electronics,5,31650,158250,Hyderabad,Telangana,Cash on Delivery,4
+10428,01/10/2025,C1003,Coffee Maker,Home & Kitchen,1,4250,4250,Mumbai,Maharashtra,UPI,5
+10429,06/03/2025,C1100,Smartwatch,Electronics,2,7450,14900,Mumbai,Maharashtra,UPI,4
+10430,18/05/2025,C1053,Backpack,Fashion,1,2600,2600,Bangalore,Karnataka,UPI,2
+10431,03/12/2025,C1100,Jacket,Fashion,3,3050,9150,Hyderabad,Telangana,Net Banking,4
+10432,01/07/2025,C1116,Headphones,Electronics,1,6200,6200,Hyderabad,Telangana,UPI,4
+10433,17/11/2025,C1084,Backpack,Fashion,1,3400,3400,Kochi,Kerala,Credit Card,4
+10434,10/10/2025,C1181,Bedsheet,Home & Kitchen,4,1100,4400,Kochi,Kerala,UPI,5
+10435,12/08/2025,C1153,Cookware Set,Home & Kitchen,3,3500,10500,Coimbatore,Tamil Nadu,Cash on Delivery,3
+10436,12/02/2025,C1117,T-Shirt,Fashion,2,1100,2200,Kochi,Kerala,Debit Card,1
+10437,21/09/2025,C1200,T-Shirt,Fashion,2,1350,2700,Pune,Maharashtra,UPI,4
+10438,14/08/2025,C1156,Mouse,Electronics,5,550,2750,Pune,Maharashtra,Credit Card,5
+10439,13/05/2025,C1056,Smartwatch,Electronics,1,9800,9800,Mumbai,Maharashtra,Net Banking,5
+10440,17/01/2025,C1059,Novel,Books,1,950,950,Kochi,Kerala,Debit Card,5
+10441,28/10/2025,C1083,T-Shirt,Fashion,1,1400,1400,Pune,Maharashtra,UPI,5
+10442,17/11/2025,C1049,Jeans,Fashion,5,2800,14000,Kochi,Kerala,Net Banking,4
+10443,23/06/2025,C1026,Monitor,Electronics,5,24200,121000,Pune,Maharashtra,UPI,5
+10444,10/06/2025,C1178,Keyboard,Electronics,2,3100,6200,Kolkata,West Bengal,UPI,1
+10445,21/10/2025,C1062,Smartphone,Electronics,4,30800,123200,Delhi,Delhi,Cash on Delivery,5
+10446,03/01/2025,C1006,Novel,Books,3,650,1950,Ahmedabad,Gujarat,Credit Card,4
+10447,27/11/2025,C1077,Smartwatch,Electronics,2,3100,6200,Bangalore,Karnataka,Credit Card,3
+10448,17/02/2025,C1184,Smartwatch,Electronics,3,3850,11550,Chennai,Tamil Nadu,Debit Card,5
+10449,07/11/2025,C1102,Smartwatch,Electronics,1,8250,8250,Mysore,Karnataka,Debit Card,4
+10450,20/12/2025,C1017,Monitor,Electronics,2,26400,52800,Ahmedabad,Gujarat,Net Banking,5
+10451,08/01/2025,C1096,Bedsheet,Home & Kitchen,1,2450,2450,Mumbai,Maharashtra,UPI,3
+10452,30/08/2025,C1086,Laptop,Electronics,1,65000,65000,Kolkata,West Bengal,Cash on Delivery,5
+10453,05/06/2025,C1170,Smartwatch,Electronics,1,12950,12950,Chennai,Tamil Nadu,Cash on Delivery,4
+10454,01/04/2025,C1022,Jacket,Fashion,2,2750,5500,Warangal,Telangana,Credit Card,5
+10455,05/09/2025,C1155,Headphones,Electronics,2,5700,11400,Delhi,Delhi,Net Banking,5
+10456,27/04/2025,C1094,Laptop,Electronics,5,60400,302000,Warangal,Telangana,Net Banking,4
+10457,26/04/2025,C1093,Desk Lamp,Home & Kitchen,4,1650,6600,Bangalore,Karnataka,Credit Card,5
+10458,31/12/2025,C1148,Novel,Books,2,900,1800,Bangalore,Karnataka,UPI,3
+10459,12/07/2025,C1145,Jacket,Fashion,1,2950,2950,Pune,Maharashtra,UPI,3
+10460,08/11/2025,C1179,Coffee Maker,Home & Kitchen,1,7700,7700,Coimbatore,Tamil Nadu,Credit Card,5
+10461,30/10/2025,C1071,Smartwatch,Electronics,1,13000,13000,Ahmedabad,Gujarat,Cash on Delivery,4
+10462,30/08/2025,C1116,Keyboard,Electronics,2,3600,7200,Warangal,Telangana,UPI,4
+10463,20/11/2025,C1122,Jeans,Fashion,1,1500,1500,Warangal,Telangana,Net Banking,1
+10464,08/07/2025,C1164,Keyboard,Electronics,1,2250,2250,Mumbai,Maharashtra,Debit Card,5
+10465,30/06/2025,C1116,Jacket,Fashion,2,2600,5200,Pune,Maharashtra,Credit Card,4
+10466,06/09/2025,C1188,Keyboard,Electronics,4,1200,4800,Pune,Maharashtra,Credit Card,1
+10467,26/03/2025,C1061,Keyboard,Electronics,1,4400,4400,Warangal,Telangana,Credit Card,3
+10468,27/08/2025,C1169,Notebook,Books,3,400,1200,Kochi,Kerala,Cash on Delivery,4
+10469,25/07/2025,C1185,Novel,Books,3,450,1350,Pune,Maharashtra,UPI,3
+10470,06/11/2025,C1149,Cookware Set,Home & Kitchen,3,3750,11250,Mumbai,Maharashtra,UPI,5
+10471,11/06/2025,C1009,Bedsheet,Home & Kitchen,1,1450,1450,Delhi,Delhi,UPI,5
+10472,21/04/2025,C1153,Jacket,Fashion,3,3200,9600,Chennai,Tamil Nadu,UPI,5
+10473,22/03/2025,C1127,Keyboard,Electronics,3,3650,10950,Pune,Maharashtra,Cash on Delivery,3
+10474,16/06/2025,C1126,Jeans,Fashion,4,2400,9600,Kolkata,West Bengal,UPI,5
+10475,19/09/2025,C1084,Smartphone,Electronics,1,14750,14750,Pune,Maharashtra,Net Banking,4
+10476,19/04/2025,C1183,Headphones,Electronics,1,5950,5950,Kochi,Kerala,Credit Card,5
+10477,08/05/2025,C1196,Desk Lamp,Home & Kitchen,1,1450,1450,Chennai,Tamil Nadu,UPI,5
+10478,16/10/2025,C1014,Notebook,Books,1,450,450,Mumbai,Maharashtra,Cash on Delivery,5
+10479,17/06/2025,C1083,Mouse,Electronics,5,1900,9500,Hubli,Karnataka,Credit Card,5
+10480,16/11/2025,C1190,Keyboard,Electronics,1,2550,2550,Mumbai,Maharashtra,Credit Card,3
+10481,05/04/2025,C1196,Smartwatch,Electronics,5,4150,20750,Delhi,Delhi,Debit Card,5
+10482,07/01/2025,C1184,Smartphone,Electronics,5,55250,276250,Pune,Maharashtra,Net Banking,5
+10483,24/11/2025,C1124,Novel,Books,5,1000,5000,Hubli,Karnataka,UPI,1
+10484,07/04/2025,C1005,Smartwatch,Electronics,3,7400,22200,Coimbatore,Tamil Nadu,Debit Card,4
+10485,19/02/2025,C1112,Mixer Grinder,Home & Kitchen,2,2650,5300,Kolkata,West Bengal,UPI,4
+10486,21/05/2025,C1084,Keyboard,Electronics,1,900,900,Warangal,Telangana,Debit Card,5
+10487,05/09/2025,C1148,Cookware Set,Home & Kitchen,4,2600,10400,Hubli,Karnataka,UPI,5
+10488,03/03/2025,C1157,Novel,Books,4,550,2200,Pune,Maharashtra,Net Banking,1
+10489,23/03/2025,C1169,Smartphone,Electronics,3,41050,123150,Kochi,Kerala,UPI,4
+10490,11/12/2025,C1035,Desk Lamp,Home & Kitchen,2,650,1300,Hubli,Karnataka,UPI,3
+10491,07/08/2025,C1157,Jacket,Fashion,3,6850,20550,Kolkata,West Bengal,Net Banking,4
+10492,25/03/2025,C1111,Programming Book,Books,1,1050,1050,Chennai,Tamil Nadu,Credit Card,4
+10493,18/12/2025,C1048,Smartphone,Electronics,3,63150,189450,Kolkata,West Bengal,Credit Card,5
+10494,24/03/2025,C1154,Mouse,Electronics,1,1650,1650,Ahmedabad,Gujarat,Credit Card,3
+10495,05/10/2025,C1100,Cookware Set,Home & Kitchen,1,5550,5550,Coimbatore,Tamil Nadu,Debit Card,3
+10496,01/11/2025,C1137,Coffee Maker,Home & Kitchen,2,5700,11400,Ahmedabad,Gujarat,Credit Card,4
+10497,15/10/2025,C1006,Laptop,Electronics,1,56950,56950,Ahmedabad,Gujarat,Net Banking,4
+10498,01/09/2025,C1085,Desk Lamp,Home & Kitchen,1,500,500,Hyderabad,Telangana,Net Banking,4
+10499,05/09/2025,C1092,Cookware Set,Home & Kitchen,4,6000,24000,Kolkata,West Bengal,Debit Card,5
+10500,02/09/2025,C1151,Shoes,Fashion,1,4550,4550,Ahmedabad,Gujarat,UPI,2
+10501,10/03/2025,C1043,Programming Book,Books,4,550,2200,Bangalore,Karnataka,UPI,3
+10502,10/06/2025,C1075,Jeans,Fashion,1,1850,1850,Hubli,Karnataka,Credit Card,3
+10503,13/06/2025,C1187,Bedsheet,Home & Kitchen,4,2200,8800,Hyderabad,Telangana,UPI,4
+10504,01/04/2025,C1008,Mixer Grinder,Home & Kitchen,1,6400,6400,Bangalore,Karnataka,UPI,3
+10505,22/10/2025,C1113,Jacket,Fashion,1,6600,6600,Hyderabad,Telangana,Cash on Delivery,5
+10506,07/12/2025,C1002,Laptop,Electronics,3,70800,212400,Mysore,Karnataka,Debit Card,5
+10507,24/04/2025,C1107,Backpack,Fashion,1,2700,2700,Delhi,Delhi,Net Banking,4
+10508,24/07/2025,C1004,Novel,Books,1,600,600,Kolkata,West Bengal,Credit Card,4
+10509,26/07/2025,C1129,T-Shirt,Fashion,2,900,1800,Mumbai,Maharashtra,Cash on Delivery,5
+10510,07/12/2025,C1157,Mixer Grinder,Home & Kitchen,3,6650,19950,Bangalore,Karnataka,UPI,5
+10511,30/10/2025,C1084,Jacket,Fashion,2,5250,10500,Warangal,Telangana,Credit Card,5
+10512,08/11/2025,C1023,Mouse,Electronics,2,400,800,Kochi,Kerala,UPI,3
+10513,24/02/2025,C1096,Programming Book,Books,5,1550,7750,Warangal,Telangana,Cash on Delivery,3
+10514,07/04/2025,C1113,Mixer Grinder,Home & Kitchen,1,4750,4750,Delhi,Delhi,UPI,5
+10515,28/04/2025,C1005,Shoes,Fashion,3,3850,11550,Hubli,Karnataka,Debit Card,4
+10516,02/08/2025,C1029,Desk Lamp,Home & Kitchen,2,2200,4400,Hubli,Karnataka,Credit Card,4
+10517,04/09/2025,C1104,Coffee Maker,Home & Kitchen,5,6100,30500,Warangal,Telangana,Cash on Delivery,4
+10518,28/07/2025,C1126,Keyboard,Electronics,3,3700,11100,Hyderabad,Telangana,UPI,4
+10519,25/04/2025,C1164,Jacket,Fashion,1,3050,3050,Delhi,Delhi,UPI,4
+10520,03/09/2025,C1127,Jacket,Fashion,2,3400,6800,Warangal,Telangana,UPI,2
+10521,17/05/2025,C1175,Cookware Set,Home & Kitchen,3,6800,20400,Mumbai,Maharashtra,Cash on Delivery,5
+10522,20/12/2025,C1141,Laptop,Electronics,1,65350,65350,Mumbai,Maharashtra,Cash on Delivery,5
+10523,02/09/2025,C1064,Smartphone,Electronics,2,40200,80400,Ahmedabad,Gujarat,Net Banking,5
+10524,21/11/2025,C1026,T-Shirt,Fashion,5,1500,7500,Bangalore,Karnataka,Cash on Delivery,3
+10525,03/03/2025,C1017,T-Shirt,Fashion,1,950,950,Coimbatore,Tamil Nadu,Cash on Delivery,5
+10526,24/05/2025,C1025,Headphones,Electronics,4,7200,28800,Kolkata,West Bengal,Debit Card,5
+10527,02/12/2025,C1169,Shoes,Fashion,5,4800,24000,Ahmedabad,Gujarat,Credit Card,5
+10528,28/09/2025,C1131,Notebook,Books,3,400,1200,Ahmedabad,Gujarat,UPI,3
+10529,17/02/2025,C1194,Mixer Grinder,Home & Kitchen,3,6600,19800,Mysore,Karnataka,UPI,5
+10530,08/08/2025,C1116,Monitor,Electronics,2,12800,25600,Mumbai,Maharashtra,Debit Card,5
+10531,20/01/2025,C1192,Coffee Maker,Home & Kitchen,1,4150,4150,Ahmedabad,Gujarat,Net Banking,5
+10532,16/11/2025,C1040,Jacket,Fashion,2,4100,8200,Hubli,Karnataka,UPI,4
+10533,17/04/2025,C1096,Mouse,Electronics,1,1200,1200,Kolkata,West Bengal,UPI,5
+10534,08/06/2025,C1124,Backpack,Fashion,1,2600,2600,Bangalore,Karnataka,UPI,4
+10535,10/11/2025,C1101,Cookware Set,Home & Kitchen,5,1850,9250,Mumbai,Maharashtra,Credit Card,4
+10536,30/07/2025,C1192,T-Shirt,Fashion,5,950,4750,Bangalore,Karnataka,Debit Card,1
+10537,03/08/2025,C1131,T-Shirt,Fashion,2,600,1200,Kochi,Kerala,Credit Card,4
+10538,28/11/2025,C1170,Mouse,Electronics,1,1600,1600,Hyderabad,Telangana,Credit Card,5
+10539,09/02/2025,C1187,Backpack,Fashion,3,1850,5550,Mumbai,Maharashtra,Cash on Delivery,4
+10540,27/06/2025,C1140,Smartwatch,Electronics,1,8850,8850,Bangalore,Karnataka,Credit Card,4
+10541,14/07/2025,C1166,Novel,Books,3,850,2550,Hyderabad,Telangana,Debit Card,4
+10542,20/04/2025,C1013,Laptop,Electronics,3,53100,159300,Kochi,Kerala,Debit Card,4
+10543,06/10/2025,C1119,T-Shirt,Fashion,3,450,1350,Coimbatore,Tamil Nadu,UPI,5
+10544,14/09/2025,C1165,Programming Book,Books,1,1400,1400,Kochi,Kerala,UPI,3
+10545,12/11/2025,C1120,Monitor,Electronics,2,27450,54900,Hubli,Karnataka,Cash on Delivery,5
+10546,12/09/2025,C1157,Bedsheet,Home & Kitchen,3,1450,4350,Kolkata,West Bengal,Credit Card,4
+10547,01/07/2025,C1125,Coffee Maker,Home & Kitchen,3,2400,7200,Mumbai,Maharashtra,UPI,3
+10548,01/04/2025,C1061,Bedsheet,Home & Kitchen,1,2500,2500,Kolkata,West Bengal,Cash on Delivery,5
+10549,18/10/2025,C1187,Coffee Maker,Home & Kitchen,1,3300,3300,Ahmedabad,Gujarat,Cash on Delivery,4
+10550,15/06/2025,C1159,Backpack,Fashion,3,1650,4950,Coimbatore,Tamil Nadu,Cash on Delivery,3
+10551,23/08/2025,C1186,Novel,Books,1,800,800,Warangal,Telangana,Credit Card,5
+10552,09/03/2025,C1061,Bedsheet,Home & Kitchen,2,2250,4500,Delhi,Delhi,Debit Card,4
+10553,03/10/2025,C1048,Notebook,Books,1,350,350,Ahmedabad,Gujarat,Credit Card,4
+10554,11/11/2025,C1133,Backpack,Fashion,3,1800,5400,Kochi,Kerala,Net Banking,4
+10555,15/06/2025,C1153,Smartwatch,Electronics,1,10600,10600,Bangalore,Karnataka,Credit Card,4
+10556,16/03/2025,C1021,Backpack,Fashion,2,2600,5200,Warangal,Telangana,Debit Card,5
+10557,05/12/2025,C1065,Shoes,Fashion,1,4550,4550,Pune,Maharashtra,Debit Card,2
+10558,30/08/2025,C1175,Mouse,Electronics,1,800,800,Kochi,Kerala,Credit Card,1
+10559,28/02/2025,C1043,Mixer Grinder,Home & Kitchen,3,2600,7800,Mysore,Karnataka,Credit Card,5
+10560,03/07/2025,C1090,Jeans,Fashion,3,2350,7050,Hyderabad,Telangana,Credit Card,4
+10561,26/01/2025,C1075,Coffee Maker,Home & Kitchen,1,5350,5350,Hyderabad,Telangana,Credit Card,4
+10562,28/07/2025,C1128,Jeans,Fashion,1,1000,1000,Mumbai,Maharashtra,Debit Card,2
+10563,27/08/2025,C1184,Bedsheet,Home & Kitchen,3,1900,5700,Warangal,Telangana,UPI,4
+10564,27/08/2025,C1119,Shoes,Fashion,1,2150,2150,Coimbatore,Tamil Nadu,Debit Card,5
+10565,05/11/2025,C1119,Cookware Set,Home & Kitchen,4,5750,23000,Chennai,Tamil Nadu,UPI,4
+10566,11/01/2025,C1098,Desk Lamp,Home & Kitchen,5,2300,11500,Ahmedabad,Gujarat,UPI,2
+10567,04/08/2025,C1138,Smartwatch,Electronics,1,5350,5350,Chennai,Tamil Nadu,UPI,2
+10568,23/10/2025,C1072,Cookware Set,Home & Kitchen,2,4400,8800,Coimbatore,Tamil Nadu,Credit Card,5
+10569,25/02/2025,C1060,Jeans,Fashion,1,1600,1600,Mumbai,Maharashtra,Cash on Delivery,3
+10570,27/03/2025,C1004,Desk Lamp,Home & Kitchen,2,1850,3700,Chennai,Tamil Nadu,UPI,3
+10571,10/05/2025,C1031,Monitor,Electronics,4,29700,118800,Mumbai,Maharashtra,UPI,2
+10572,08/05/2025,C1152,Mixer Grinder,Home & Kitchen,5,3250,16250,Hyderabad,Telangana,Debit Card,5
+10573,11/08/2025,C1057,Bedsheet,Home & Kitchen,2,1600,3200,Bangalore,Karnataka,Debit Card,4
+10574,16/04/2025,C1015,Smartphone,Electronics,1,22100,22100,Pune,Maharashtra,UPI,4
+10575,06/08/2025,C1082,T-Shirt,Fashion,2,1500,3000,Pune,Maharashtra,Credit Card,5
+10576,23/11/2025,C1048,Shoes,Fashion,4,3900,15600,Hyderabad,Telangana,Credit Card,5
+10577,03/12/2025,C1134,T-Shirt,Fashion,2,850,1700,Mumbai,Maharashtra,Credit Card,3
+10578,08/10/2025,C1077,Mixer Grinder,Home & Kitchen,4,4950,19800,Kochi,Kerala,Debit Card,4
+10579,11/05/2025,C1150,Monitor,Electronics,4,21000,84000,Kochi,Kerala,Debit Card,3
+10580,01/02/2025,C1099,Monitor,Electronics,5,20750,103750,Pune,Maharashtra,Net Banking,5
+10581,09/07/2025,C1052,Smartwatch,Electronics,1,11600,11600,Ahmedabad,Gujarat,Debit Card,5
+10582,13/01/2025,C1045,Shoes,Fashion,4,2250,9000,Delhi,Delhi,Cash on Delivery,4
+10583,30/09/2025,C1152,Novel,Books,1,700,700,Ahmedabad,Gujarat,Credit Card,3
+10584,21/04/2025,C1187,Novel,Books,1,250,250,Mumbai,Maharashtra,Credit Card,3
+10585,02/01/2025,C1145,Keyboard,Electronics,1,3650,3650,Ahmedabad,Gujarat,Debit Card,3
+10586,04/04/2025,C1149,Coffee Maker,Home & Kitchen,5,4150,20750,Mysore,Karnataka,UPI,3
+10587,30/12/2025,C1053,Desk Lamp,Home & Kitchen,5,950,4750,Pune,Maharashtra,UPI,4
+10588,01/01/2025,C1044,Programming Book,Books,3,1200,3600,Chennai,Tamil Nadu,UPI,5
+10589,13/03/2025,C1155,Smartphone,Electronics,5,24600,123000,Kochi,Kerala,UPI,5
+10590,20/06/2025,C1095,Laptop,Electronics,1,69050,69050,Hubli,Karnataka,Cash on Delivery,5
+10591,11/07/2025,C1054,Jeans,Fashion,4,2850,11400,Hyderabad,Telangana,UPI,2
+10592,25/04/2025,C1194,Desk Lamp,Home & Kitchen,1,1350,1350,Mumbai,Maharashtra,Debit Card,1
+10593,03/07/2025,C1028,Notebook,Books,4,200,800,Bangalore,Karnataka,Cash on Delivery,5
+10594,26/10/2025,C1164,Keyboard,Electronics,1,2600,2600,Hyderabad,Telangana,Net Banking,3
+10595,07/07/2025,C1083,Programming Book,Books,1,1450,1450,Pune,Maharashtra,UPI,4
+10596,29/07/2025,C1048,Headphones,Electronics,3,1750,5250,Kolkata,West Bengal,Cash on Delivery,5
+10597,17/05/2025,C1111,Smartwatch,Electronics,5,14250,71250,Mysore,Karnataka,UPI,5
+10598,17/10/2025,C1067,Smartwatch,Electronics,4,4400,17600,Ahmedabad,Gujarat,UPI,4
+10599,19/11/2025,C1152,Jacket,Fashion,1,5700,5700,Mumbai,Maharashtra,Cash on Delivery,4
+10600,13/02/2025,C1026,Bedsheet,Home & Kitchen,1,700,700,Kochi,Kerala,Debit Card,5
+10601,02/07/2025,C1112,Novel,Books,2,800,1600,Chennai,Tamil Nadu,UPI,4
+10602,26/04/2025,C1190,Smartphone,Electronics,3,61850,185550,Coimbatore,Tamil Nadu,Credit Card,4
+10603,29/10/2025,C1025,Programming Book,Books,3,1400,4200,Delhi,Delhi,UPI,3
+10604,01/04/2025,C1018,Keyboard,Electronics,3,4150,12450,Kochi,Kerala,UPI,5
+10605,18/05/2025,C1089,Headphones,Electronics,3,4750,14250,Hubli,Karnataka,Net Banking,4
+10606,30/06/2025,C1055,Jeans,Fashion,4,1450,5800,Coimbatore,Tamil Nadu,UPI,2
+10607,02/01/2025,C1193,Coffee Maker,Home & Kitchen,3,3150,9450,Pune,Maharashtra,Debit Card,5
+10608,31/03/2025,C1123,Notebook,Books,3,450,1350,Kochi,Kerala,Debit Card,2
+10609,11/06/2025,C1031,Shoes,Fashion,4,5850,23400,Coimbatore,Tamil Nadu,UPI,3
+10610,17/11/2025,C1191,Smartwatch,Electronics,1,8200,8200,Mumbai,Maharashtra,Debit Card,5
+10611,27/07/2025,C1008,Jacket,Fashion,2,5650,11300,Hyderabad,Telangana,UPI,4
+10612,03/12/2025,C1078,Desk Lamp,Home & Kitchen,1,1600,1600,Ahmedabad,Gujarat,Net Banking,2
+10613,06/11/2025,C1027,Headphones,Electronics,3,2450,7350,Mumbai,Maharashtra,Cash on Delivery,5
+10614,05/08/2025,C1162,Headphones,Electronics,2,2000,4000,Hyderabad,Telangana,UPI,2
+10615,30/08/2025,C1146,Keyboard,Electronics,1,2250,2250,Hyderabad,Telangana,UPI,5
+10616,19/01/2025,C1063,Mixer Grinder,Home & Kitchen,3,2650,7950,Kochi,Kerala,Net Banking,2
+10617,12/06/2025,C1160,Smartwatch,Electronics,1,3450,3450,Hubli,Karnataka,Net Banking,3
+10618,29/12/2025,C1050,Smartwatch,Electronics,5,6500,32500,Ahmedabad,Gujarat,UPI,4
+10619,27/08/2025,C1068,Mouse,Electronics,2,1500,3000,Coimbatore,Tamil Nadu,Credit Card,2
+10620,11/10/2025,C1096,Bedsheet,Home & Kitchen,2,2350,4700,Chennai,Tamil Nadu,Cash on Delivery,4
+10621,14/02/2025,C1194,Headphones,Electronics,3,3350,10050,Kolkata,West Bengal,Cash on Delivery,3
+10622,13/10/2025,C1146,Smartwatch,Electronics,1,7250,7250,Ahmedabad,Gujarat,UPI,4
+10623,16/12/2025,C1134,T-Shirt,Fashion,2,900,1800,Ahmedabad,Gujarat,Net Banking,5
+10624,16/04/2025,C1146,Mixer Grinder,Home & Kitchen,2,4800,9600,Warangal,Telangana,UPI,4
+10625,19/11/2025,C1106,Shoes,Fashion,2,5550,11100,Hyderabad,Telangana,UPI,4
+10626,02/08/2025,C1198,Desk Lamp,Home & Kitchen,5,2450,12250,Chennai,Tamil Nadu,Credit Card,3
+10627,08/09/2025,C1003,Laptop,Electronics,2,56450,112900,Warangal,Telangana,Net Banking,3
+10628,21/08/2025,C1073,Smartwatch,Electronics,4,8250,33000,Mysore,Karnataka,UPI,2
+10629,30/01/2025,C1025,Notebook,Books,2,200,400,Chennai,Tamil Nadu,UPI,4
+10630,10/11/2025,C1094,Coffee Maker,Home & Kitchen,5,4400,22000,Pune,Maharashtra,UPI,5
+10631,23/09/2025,C1099,Shoes,Fashion,1,4400,4400,Chennai,Tamil Nadu,UPI,4
+10632,25/10/2025,C1054,Coffee Maker,Home & Kitchen,4,2650,10600,Mysore,Karnataka,UPI,5
+10633,12/12/2025,C1144,Bedsheet,Home & Kitchen,1,700,700,Hubli,Karnataka,UPI,1
+10634,29/11/2025,C1132,Smartwatch,Electronics,1,6350,6350,Delhi,Delhi,Net Banking,4
+10635,13/03/2025,C1007,Smartphone,Electronics,1,26600,26600,Kolkata,West Bengal,UPI,4
+10636,12/02/2025,C1017,Mixer Grinder,Home & Kitchen,4,2550,10200,Kochi,Kerala,UPI,4
+10637,27/07/2025,C1036,Desk Lamp,Home & Kitchen,5,1000,5000,Mumbai,Maharashtra,Credit Card,5
+10638,12/03/2025,C1180,Cookware Set,Home & Kitchen,2,3100,6200,Warangal,Telangana,Credit Card,3
+10639,02/10/2025,C1106,Keyboard,Electronics,2,1950,3900,Chennai,Tamil Nadu,UPI,5
+10640,22/11/2025,C1063,Keyboard,Electronics,1,4150,4150,Ahmedabad,Gujarat,UPI,3
+10641,02/10/2025,C1034,Bedsheet,Home & Kitchen,1,800,800,Chennai,Tamil Nadu,UPI,4
+10642,07/02/2025,C1070,Mouse,Electronics,3,1100,3300,Chennai,Tamil Nadu,Cash on Delivery,2
+10643,05/01/2025,C1148,Cookware Set,Home & Kitchen,1,2300,2300,Chennai,Tamil Nadu,Debit Card,2
+10644,17/10/2025,C1077,Backpack,Fashion,2,1000,2000,Chennai,Tamil Nadu,Net Banking,3
+10645,08/06/2025,C1128,Jacket,Fashion,4,6950,27800,Hubli,Karnataka,Cash on Delivery,3
+10646,18/05/2025,C1130,Notebook,Books,4,300,1200,Mysore,Karnataka,Debit Card,4
+10647,17/04/2025,C1088,Desk Lamp,Home & Kitchen,5,2200,11000,Warangal,Telangana,Cash on Delivery,5
+10648,28/07/2025,C1092,Mouse,Electronics,4,450,1800,Mysore,Karnataka,UPI,3
+10649,07/10/2025,C1004,Cookware Set,Home & Kitchen,2,5800,11600,Warangal,Telangana,UPI,3
+10650,12/01/2025,C1195,Backpack,Fashion,5,1050,5250,Kolkata,West Bengal,Debit Card,5
+10651,30/01/2025,C1084,Desk Lamp,Home & Kitchen,3,1700,5100,Mysore,Karnataka,UPI,4
+10652,27/12/2025,C1118,Jacket,Fashion,2,6700,13400,Bangalore,Karnataka,UPI,4
+10653,30/08/2025,C1107,Keyboard,Electronics,3,1200,3600,Hyderabad,Telangana,UPI,2
+10654,14/03/2025,C1076,Bedsheet,Home & Kitchen,1,1050,1050,Pune,Maharashtra,UPI,5
+10655,07/03/2025,C1065,Jacket,Fashion,5,6000,30000,Chennai,Tamil Nadu,Debit Card,4
+10656,19/03/2025,C1194,Mouse,Electronics,5,1450,7250,Mysore,Karnataka,UPI,5
+10657,20/04/2025,C1078,Smartwatch,Electronics,2,9700,19400,Ahmedabad,Gujarat,Cash on Delivery,1
+10658,05/02/2025,C1173,Mixer Grinder,Home & Kitchen,1,8450,8450,Kochi,Kerala,UPI,3
+10659,06/04/2025,C1161,Mixer Grinder,Home & Kitchen,4,6950,27800,Chennai,Tamil Nadu,Cash on Delivery,4
+10660,03/05/2025,C1144,Programming Book,Books,1,1250,1250,Warangal,Telangana,UPI,1
+10661,17/07/2025,C1140,Mouse,Electronics,2,1750,3500,Warangal,Telangana,UPI,1
+10662,15/01/2025,C1044,Coffee Maker,Home & Kitchen,4,5250,21000,Warangal,Telangana,Net Banking,2
+10663,09/12/2025,C1104,Cookware Set,Home & Kitchen,2,5050,10100,Ahmedabad,Gujarat,UPI,5
+10664,30/09/2025,C1083,Mixer Grinder,Home & Kitchen,4,8250,33000,Coimbatore,Tamil Nadu,UPI,5
+10665,12/10/2025,C1070,Jeans,Fashion,2,2900,5800,Hubli,Karnataka,Cash on Delivery,5
+10666,04/09/2025,C1129,Smartphone,Electronics,2,64400,128800,Kolkata,West Bengal,UPI,3
+10667,23/02/2025,C1016,Backpack,Fashion,4,3450,13800,Mumbai,Maharashtra,Net Banking,4
+10668,09/05/2025,C1081,Mixer Grinder,Home & Kitchen,1,7700,7700,Delhi,Delhi,Credit Card,4
+10669,07/07/2025,C1163,Programming Book,Books,3,1250,3750,Hubli,Karnataka,Debit Card,4
+10670,17/09/2025,C1019,Smartwatch,Electronics,2,9650,19300,Chennai,Tamil Nadu,Debit Card,5
+10671,21/02/2025,C1111,Coffee Maker,Home & Kitchen,1,2950,2950,Kochi,Kerala,Debit Card,5
+10672,28/08/2025,C1115,Backpack,Fashion,1,1400,1400,Mumbai,Maharashtra,Credit Card,5
+10673,28/08/2025,C1039,Backpack,Fashion,2,2250,4500,Chennai,Tamil Nadu,Net Banking,5
+10674,11/01/2025,C1038,Cookware Set,Home & Kitchen,4,1850,7400,Kolkata,West Bengal,Credit Card,4
+10675,08/08/2025,C1065,Notebook,Books,5,250,1250,Chennai,Tamil Nadu,Net Banking,4
+10676,25/12/2025,C1061,Jeans,Fashion,1,1200,1200,Mumbai,Maharashtra,Net Banking,2
+10677,27/04/2025,C1165,Smartwatch,Electronics,1,12150,12150,Kochi,Kerala,UPI,4
+10678,26/04/2025,C1118,Bedsheet,Home & Kitchen,1,2450,2450,Ahmedabad,Gujarat,Debit Card,5
+10679,03/08/2025,C1173,Desk Lamp,Home & Kitchen,4,1400,5600,Kolkata,West Bengal,UPI,4
+10680,19/12/2025,C1164,Backpack,Fashion,4,1750,7000,Pune,Maharashtra,UPI,2
+10681,03/04/2025,C1173,Headphones,Electronics,3,4600,13800,Hubli,Karnataka,UPI,4
+10682,01/09/2025,C1166,Notebook,Books,3,250,750,Coimbatore,Tamil Nadu,Credit Card,4
+10683,26/11/2025,C1138,Jacket,Fashion,4,5150,20600,Mysore,Karnataka,UPI,3
+10684,01/01/2025,C1181,Bedsheet,Home & Kitchen,2,900,1800,Kolkata,West Bengal,Debit Card,4
+10685,01/01/2025,C1071,Mouse,Electronics,1,1700,1700,Hyderabad,Telangana,Credit Card,2
+10686,19/10/2025,C1178,Shoes,Fashion,2,3950,7900,Ahmedabad,Gujarat,Credit Card,3
+10687,16/01/2025,C1099,Backpack,Fashion,1,2400,2400,Pune,Maharashtra,UPI,4
+10688,12/05/2025,C1030,Mouse,Electronics,2,550,1100,Delhi,Delhi,UPI,4
+10689,30/06/2025,C1199,Backpack,Fashion,1,2500,2500,Chennai,Tamil Nadu,Debit Card,5
+10690,19/01/2025,C1101,Coffee Maker,Home & Kitchen,3,6300,18900,Mumbai,Maharashtra,Credit Card,5
+10691,12/01/2025,C1118,Keyboard,Electronics,3,3250,9750,Bangalore,Karnataka,Debit Card,3
+10692,10/06/2025,C1190,T-Shirt,Fashion,1,1350,1350,Kochi,Kerala,UPI,5
+10693,16/09/2025,C1135,Smartphone,Electronics,2,13300,26600,Kochi,Kerala,Net Banking,2
+10694,05/04/2025,C1122,Smartwatch,Electronics,3,5200,15600,Bangalore,Karnataka,Credit Card,5
+10695,21/06/2025,C1127,Novel,Books,2,500,1000,Ahmedabad,Gujarat,Debit Card,2
+10696,28/06/2025,C1119,Bedsheet,Home & Kitchen,4,1650,6600,Kochi,Kerala,Credit Card,4
+10697,22/02/2025,C1187,Coffee Maker,Home & Kitchen,3,2150,6450,Warangal,Telangana,UPI,5
+10698,05/12/2025,C1010,T-Shirt,Fashion,1,500,500,Ahmedabad,Gujarat,UPI,1
+10699,27/05/2025,C1067,Cookware Set,Home & Kitchen,1,1800,1800,Hyderabad,Telangana,UPI,4
+10700,16/05/2025,C1087,Programming Book,Books,4,1150,4600,Coimbatore,Tamil Nadu,Credit Card,1
+10701,23/11/2025,C1015,Headphones,Electronics,5,2550,12750,Ahmedabad,Gujarat,Cash on Delivery,2
+10702,01/01/2025,C1010,Smartphone,Electronics,1,59850,59850,Bangalore,Karnataka,Net Banking,4
+10703,11/12/2025,C1188,Mixer Grinder,Home & Kitchen,5,4200,21000,Pune,Maharashtra,UPI,5
+10704,14/05/2025,C1197,Bedsheet,Home & Kitchen,3,1150,3450,Pune,Maharashtra,Net Banking,2
+10705,15/11/2025,C1185,Novel,Books,3,500,1500,Kochi,Kerala,UPI,2
+10706,09/03/2025,C1046,Cookware Set,Home & Kitchen,1,3800,3800,Chennai,Tamil Nadu,Net Banking,4
+10707,04/04/2025,C1173,Bedsheet,Home & Kitchen,1,2450,2450,Hyderabad,Telangana,UPI,5
+10708,28/10/2025,C1114,Programming Book,Books,3,1300,3900,Mysore,Karnataka,UPI,5
+10709,27/05/2025,C1035,Smartwatch,Electronics,4,7950,31800,Pune,Maharashtra,UPI,4
+10710,12/07/2025,C1051,Mixer Grinder,Home & Kitchen,3,7850,23550,Kochi,Kerala,Debit Card,4
+10711,06/07/2025,C1033,Notebook,Books,1,400,400,Kochi,Kerala,Cash on Delivery,4
+10712,08/04/2025,C1127,Programming Book,Books,2,750,1500,Coimbatore,Tamil Nadu,Credit Card,5
+10713,30/05/2025,C1016,Bedsheet,Home & Kitchen,3,1400,4200,Warangal,Telangana,Debit Card,4
+10714,02/08/2025,C1085,Headphones,Electronics,2,7950,15900,Mumbai,Maharashtra,Credit Card,3
+10715,29/12/2025,C1151,Shoes,Fashion,1,2900,2900,Hubli,Karnataka,Credit Card,5
+10716,13/04/2025,C1151,Coffee Maker,Home & Kitchen,1,3950,3950,Bangalore,Karnataka,UPI,5
+10717,15/05/2025,C1050,Smartwatch,Electronics,1,3350,3350,Mumbai,Maharashtra,UPI,3
+10718,21/01/2025,C1090,Monitor,Electronics,1,23600,23600,Ahmedabad,Gujarat,Credit Card,4
+10719,27/04/2025,C1092,Coffee Maker,Home & Kitchen,2,4550,9100,Chennai,Tamil Nadu,Credit Card,3
+10720,27/11/2025,C1038,Shoes,Fashion,1,2600,2600,Mysore,Karnataka,UPI,4
+10721,21/12/2025,C1152,Backpack,Fashion,3,1100,3300,Hubli,Karnataka,UPI,3
+10722,01/01/2025,C1153,Desk Lamp,Home & Kitchen,2,1300,2600,Ahmedabad,Gujarat,UPI,3
+10723,30/07/2025,C1025,Backpack,Fashion,1,3200,3200,Mysore,Karnataka,Debit Card,4
+10724,02/12/2025,C1104,Notebook,Books,1,350,350,Hubli,Karnataka,UPI,3
+10725,11/03/2025,C1096,Smartphone,Electronics,1,41400,41400,Hyderabad,Telangana,Cash on Delivery,4
+10726,01/09/2025,C1018,Backpack,Fashion,4,2750,11000,Delhi,Delhi,UPI,4
+10727,09/01/2025,C1109,Programming Book,Books,2,1550,3100,Chennai,Tamil Nadu,Cash on Delivery,4
+10728,10/03/2025,C1005,Mouse,Electronics,1,450,450,Hubli,Karnataka,Credit Card,4
+10729,19/04/2025,C1074,Novel,Books,4,750,3000,Ahmedabad,Gujarat,UPI,1
+10730,24/09/2025,C1099,Shoes,Fashion,5,4250,21250,Pune,Maharashtra,Net Banking,3
+10731,15/03/2025,C1073,Jacket,Fashion,2,2900,5800,Ahmedabad,Gujarat,Cash on Delivery,5
+10732,16/11/2025,C1085,Smartphone,Electronics,3,33750,101250,Warangal,Telangana,Net Banking,4
+10733,14/10/2025,C1178,Mixer Grinder,Home & Kitchen,1,7500,7500,Warangal,Telangana,UPI,3
+10734,08/08/2025,C1106,Desk Lamp,Home & Kitchen,2,1850,3700,Ahmedabad,Gujarat,Debit Card,4
+10735,11/07/2025,C1069,Headphones,Electronics,1,2200,2200,Kolkata,West Bengal,UPI,4
+10736,15/01/2025,C1183,Notebook,Books,3,200,600,Mumbai,Maharashtra,Cash on Delivery,5
+10737,01/11/2025,C1144,Mixer Grinder,Home & Kitchen,1,6650,6650,Chennai,Tamil Nadu,Credit Card,4
+10738,24/03/2025,C1042,Jeans,Fashion,1,1400,1400,Kochi,Kerala,Credit Card,4
+10739,06/01/2025,C1152,Coffee Maker,Home & Kitchen,2,7200,14400,Delhi,Delhi,UPI,5
+10740,01/06/2025,C1075,Monitor,Electronics,2,15900,31800,Warangal,Telangana,Credit Card,4
+10741,08/07/2025,C1078,Notebook,Books,3,200,600,Hubli,Karnataka,Credit Card,3
+10742,24/11/2025,C1179,Bedsheet,Home & Kitchen,2,1950,3900,Warangal,Telangana,Net Banking,5
+10743,08/11/2025,C1196,T-Shirt,Fashion,1,1500,1500,Ahmedabad,Gujarat,Debit Card,5
+10744,07/08/2025,C1199,Headphones,Electronics,3,3300,9900,Warangal,Telangana,UPI,5
+10745,04/03/2025,C1165,Shoes,Fashion,1,5200,5200,Coimbatore,Tamil Nadu,Credit Card,4
+10746,09/04/2025,C1116,Desk Lamp,Home & Kitchen,1,2100,2100,Hubli,Karnataka,Credit Card,5
+10747,26/04/2025,C1151,Bedsheet,Home & Kitchen,2,2350,4700,Bangalore,Karnataka,Debit Card,4
+10748,19/02/2025,C1036,Mixer Grinder,Home & Kitchen,1,2500,2500,Hyderabad,Telangana,UPI,4
+10749,18/12/2025,C1189,Cookware Set,Home & Kitchen,1,4950,4950,Ahmedabad,Gujarat,UPI,3
+10750,24/08/2025,C1078,Programming Book,Books,1,800,800,Mysore,Karnataka,UPI,4
+10751,11/07/2025,C1153,Smartphone,Electronics,1,35350,35350,Ahmedabad,Gujarat,UPI,1
+10752,30/03/2025,C1056,Jeans,Fashion,1,1400,1400,Bangalore,Karnataka,Credit Card,4
+10753,29/09/2025,C1050,Programming Book,Books,2,1050,2100,Hyderabad,Telangana,Debit Card,3
+10754,12/05/2025,C1085,Desk Lamp,Home & Kitchen,1,1400,1400,Delhi,Delhi,Debit Card,1
+10755,16/01/2025,C1051,Monitor,Electronics,1,29900,29900,Coimbatore,Tamil Nadu,UPI,3
+10756,29/12/2025,C1100,Jeans,Fashion,1,1800,1800,Pune,Maharashtra,Credit Card,2
+10757,18/01/2025,C1071,Smartphone,Electronics,4,51900,207600,Kolkata,West Bengal,Net Banking,2
+10758,10/10/2025,C1171,Laptop,Electronics,1,48550,48550,Chennai,Tamil Nadu,Debit Card,3
+10759,11/03/2025,C1062,Laptop,Electronics,2,52050,104100,Warangal,Telangana,UPI,1
+10760,18/01/2025,C1182,Novel,Books,1,400,400,Bangalore,Karnataka,UPI,4
+10761,26/05/2025,C1151,Keyboard,Electronics,1,3250,3250,Delhi,Delhi,Debit Card,5
+10762,16/04/2025,C1007,Smartphone,Electronics,1,14000,14000,Warangal,Telangana,Cash on Delivery,4
+10763,12/10/2025,C1149,Laptop,Electronics,2,74750,149500,Chennai,Tamil Nadu,Credit Card,5
+10764,28/06/2025,C1198,Shoes,Fashion,1,2750,2750,Delhi,Delhi,UPI,3
+10765,24/03/2025,C1063,Monitor,Electronics,5,15450,77250,Bangalore,Karnataka,UPI,3
+10766,06/05/2025,C1157,Headphones,Electronics,3,3750,11250,Hyderabad,Telangana,Debit Card,5
+10767,30/09/2025,C1038,Jacket,Fashion,1,6150,6150,Mysore,Karnataka,UPI,3
+10768,26/02/2025,C1172,Cookware Set,Home & Kitchen,3,6550,19650,Hubli,Karnataka,UPI,4
+10769,17/11/2025,C1179,Novel,Books,2,250,500,Coimbatore,Tamil Nadu,Credit Card,4
+10770,02/12/2025,C1065,Bedsheet,Home & Kitchen,2,1500,3000,Hyderabad,Telangana,Cash on Delivery,1
+10771,30/06/2025,C1071,Backpack,Fashion,1,3000,3000,Warangal,Telangana,Credit Card,5
+10772,02/01/2025,C1010,Smartphone,Electronics,3,62500,187500,Warangal,Telangana,UPI,4
+10773,06/12/2025,C1129,Desk Lamp,Home & Kitchen,2,2150,4300,Hyderabad,Telangana,UPI,5
+10774,23/01/2025,C1154,Monitor,Electronics,1,16900,16900,Ahmedabad,Gujarat,UPI,3
+10775,19/04/2025,C1055,Cookware Set,Home & Kitchen,2,6850,13700,Bangalore,Karnataka,UPI,1
+10776,28/03/2025,C1038,Keyboard,Electronics,2,2600,5200,Delhi,Delhi,UPI,2
+10777,03/02/2025,C1097,Mixer Grinder,Home & Kitchen,2,4550,9100,Hubli,Karnataka,Net Banking,3
+10778,15/04/2025,C1001,T-Shirt,Fashion,1,1300,1300,Mysore,Karnataka,Credit Card,5
+10779,14/08/2025,C1158,Programming Book,Books,5,1700,8500,Delhi,Delhi,Cash on Delivery,3
+10780,23/07/2025,C1056,Desk Lamp,Home & Kitchen,1,900,900,Delhi,Delhi,Credit Card,4
+10781,06/07/2025,C1186,Cookware Set,Home & Kitchen,3,6050,18150,Bangalore,Karnataka,UPI,3
+10782,05/10/2025,C1191,Mouse,Electronics,1,2250,2250,Pune,Maharashtra,Credit Card,5
+10783,10/02/2025,C1173,Backpack,Fashion,1,2750,2750,Kolkata,West Bengal,Credit Card,2
+10784,10/05/2025,C1096,Mixer Grinder,Home & Kitchen,5,5900,29500,Mumbai,Maharashtra,Credit Card,5
+10785,04/04/2025,C1168,Shoes,Fashion,2,5650,11300,Coimbatore,Tamil Nadu,Debit Card,4
+10786,01/10/2025,C1042,Novel,Books,4,450,1800,Delhi,Delhi,UPI,4
+10787,06/06/2025,C1132,Keyboard,Electronics,2,1950,3900,Pune,Maharashtra,Net Banking,5
+10788,24/07/2025,C1079,Programming Book,Books,5,1300,6500,Kolkata,West Bengal,Credit Card,2
+10789,03/06/2025,C1154,Keyboard,Electronics,4,3550,14200,Chennai,Tamil Nadu,UPI,4
+10790,25/10/2025,C1019,Desk Lamp,Home & Kitchen,1,2150,2150,Hubli,Karnataka,Credit Card,4
+10791,24/02/2025,C1154,Laptop,Electronics,2,69350,138700,Hubli,Karnataka,UPI,4
+10792,22/12/2025,C1144,Programming Book,Books,2,1700,3400,Warangal,Telangana,UPI,4
+10793,19/07/2025,C1157,Laptop,Electronics,1,45600,45600,Hyderabad,Telangana,Credit Card,5
+10794,26/10/2025,C1154,Monitor,Electronics,5,19100,95500,Warangal,Telangana,UPI,5
+10795,09/03/2025,C1154,T-Shirt,Fashion,1,1200,1200,Ahmedabad,Gujarat,Net Banking,4
+10796,26/09/2025,C1078,Mixer Grinder,Home & Kitchen,2,5450,10900,Kochi,Kerala,UPI,5
+10797,07/03/2025,C1087,Smartphone,Electronics,2,18550,37100,Kochi,Kerala,UPI,4
+10798,06/07/2025,C1046,Desk Lamp,Home & Kitchen,3,800,2400,Mysore,Karnataka,Debit Card,3
+10799,05/12/2025,C1162,Smartwatch,Electronics,5,12100,60500,Chennai,Tamil Nadu,Net Banking,4
+10800,12/01/2025,C1180,Mixer Grinder,Home & Kitchen,3,5600,16800,Chennai,Tamil Nadu,Cash on Delivery,2
+10801,04/06/2025,C1053,Notebook,Books,5,300,1500,Hubli,Karnataka,UPI,4
+10802,10/03/2025,C1023,Bedsheet,Home & Kitchen,4,2250,9000,Kolkata,West Bengal,Cash on Delivery,3
+10803,24/11/2025,C1149,Shoes,Fashion,4,1850,7400,Hyderabad,Telangana,Cash on Delivery,3
+10804,14/01/2025,C1014,Monitor,Electronics,5,28500,142500,Ahmedabad,Gujarat,Debit Card,4
+10805,02/05/2025,C1145,Monitor,Electronics,2,10950,21900,Mysore,Karnataka,UPI,2
+10806,20/12/2025,C1106,Notebook,Books,1,350,350,Chennai,Tamil Nadu,Debit Card,3
+10807,26/11/2025,C1098,Mouse,Electronics,1,1950,1950,Mysore,Karnataka,UPI,2
+10808,08/01/2025,C1139,Notebook,Books,1,350,350,Kochi,Kerala,UPI,4
+10809,28/12/2025,C1014,Mouse,Electronics,1,2100,2100,Mumbai,Maharashtra,Cash on Delivery,5
+10810,16/06/2025,C1020,Novel,Books,2,850,1700,Kochi,Kerala,Net Banking,4
+10811,08/07/2025,C1044,T-Shirt,Fashion,1,750,750,Hyderabad,Telangana,UPI,5
+10812,30/08/2025,C1038,Jacket,Fashion,4,2000,8000,Hyderabad,Telangana,Credit Card,4
+10813,26/02/2025,C1126,Jacket,Fashion,5,6850,34250,Mumbai,Maharashtra,Credit Card,3
+10814,18/12/2025,C1048,Laptop,Electronics,1,68500,68500,Kochi,Kerala,UPI,2
+10815,09/10/2025,C1025,Jacket,Fashion,3,6100,18300,Delhi,Delhi,UPI,2
+10816,05/03/2025,C1199,Smartphone,Electronics,1,14800,14800,Warangal,Telangana,Credit Card,2
+10817,18/10/2025,C1179,Smartphone,Electronics,1,17350,17350,Coimbatore,Tamil Nadu,Credit Card,1
+10818,21/06/2025,C1053,Novel,Books,3,500,1500,Mumbai,Maharashtra,UPI,2
+10819,10/06/2025,C1175,Programming Book,Books,1,1750,1750,Delhi,Delhi,UPI,4
+10820,06/10/2025,C1054,Mouse,Electronics,1,1700,1700,Coimbatore,Tamil Nadu,UPI,3
+10821,26/02/2025,C1112,Smartwatch,Electronics,5,7750,38750,Pune,Maharashtra,Debit Card,4
+10822,05/07/2025,C1076,Coffee Maker,Home & Kitchen,1,3950,3950,Delhi,Delhi,Net Banking,4
+10823,15/09/2025,C1127,Smartwatch,Electronics,2,9150,18300,Coimbatore,Tamil Nadu,Debit Card,4
+10824,28/09/2025,C1141,Smartwatch,Electronics,5,2950,14750,Kochi,Kerala,Debit Card,5
+10825,23/05/2025,C1106,Jacket,Fashion,2,5050,10100,Coimbatore,Tamil Nadu,Credit Card,4
+10826,28/08/2025,C1085,T-Shirt,Fashion,5,850,4250,Hubli,Karnataka,UPI,4
+10827,09/08/2025,C1085,Mouse,Electronics,1,1850,1850,Ahmedabad,Gujarat,Credit Card,1
+10828,03/05/2025,C1144,Coffee Maker,Home & Kitchen,1,7900,7900,Mumbai,Maharashtra,UPI,3
+10829,27/10/2025,C1140,Mouse,Electronics,5,1600,8000,Coimbatore,Tamil Nadu,UPI,4
+10830,01/09/2025,C1182,Bedsheet,Home & Kitchen,1,850,850,Kochi,Kerala,Debit Card,4
+10831,16/04/2025,C1109,Headphones,Electronics,2,7850,15700,Mysore,Karnataka,Debit Card,5
+10832,12/03/2025,C1056,Mixer Grinder,Home & Kitchen,1,8600,8600,Chennai,Tamil Nadu,Debit Card,4
+10833,15/06/2025,C1143,Keyboard,Electronics,5,4500,22500,Kolkata,West Bengal,UPI,5
+10834,17/12/2025,C1146,Notebook,Books,3,200,600,Kochi,Kerala,UPI,5
+10835,09/01/2025,C1061,Mouse,Electronics,1,1250,1250,Mysore,Karnataka,Cash on Delivery,5
+10836,15/04/2025,C1004,Backpack,Fashion,1,2250,2250,Pune,Maharashtra,Credit Card,4
+10837,26/04/2025,C1069,Coffee Maker,Home & Kitchen,1,6400,6400,Delhi,Delhi,UPI,5
+10838,13/12/2025,C1088,Laptop,Electronics,4,64900,259600,Bangalore,Karnataka,Credit Card,4
+10839,30/05/2025,C1132,Jacket,Fashion,3,2600,7800,Bangalore,Karnataka,Debit Card,4
+10840,20/08/2025,C1126,Shoes,Fashion,2,3600,7200,Mysore,Karnataka,UPI,5
+10841,04/08/2025,C1177,Cookware Set,Home & Kitchen,5,3200,16000,Kolkata,West Bengal,Debit Card,4
+10842,14/07/2025,C1113,Bedsheet,Home & Kitchen,1,2150,2150,Kolkata,West Bengal,UPI,4
+10843,08/11/2025,C1196,Novel,Books,4,550,2200,Kochi,Kerala,Cash on Delivery,4
+10844,25/05/2025,C1037,Programming Book,Books,4,1550,6200,Coimbatore,Tamil Nadu,Cash on Delivery,4
+10845,04/11/2025,C1019,Coffee Maker,Home & Kitchen,1,2900,2900,Chennai,Tamil Nadu,Credit Card,3
+10846,13/07/2025,C1069,T-Shirt,Fashion,1,600,600,Chennai,Tamil Nadu,UPI,4
+10847,10/01/2025,C1102,Jacket,Fashion,1,2750,2750,Coimbatore,Tamil Nadu,UPI,4
+10848,19/03/2025,C1085,Notebook,Books,2,150,300,Kochi,Kerala,Cash on Delivery,5
+10849,04/11/2025,C1189,Desk Lamp,Home & Kitchen,1,600,600,Delhi,Delhi,Net Banking,3
+10850,30/11/2025,C1097,Backpack,Fashion,4,1600,6400,Mysore,Karnataka,Credit Card,1
+10851,19/09/2025,C1057,Backpack,Fashion,1,3450,3450,Kochi,Kerala,Cash on Delivery,4
+10852,01/07/2025,C1025,Bedsheet,Home & Kitchen,5,2400,12000,Chennai,Tamil Nadu,Net Banking,4
+10853,19/12/2025,C1193,Novel,Books,4,450,1800,Ahmedabad,Gujarat,Credit Card,5
+10854,07/05/2025,C1055,Jacket,Fashion,2,3850,7700,Mumbai,Maharashtra,UPI,3
+10855,17/07/2025,C1115,Smartwatch,Electronics,2,13350,26700,Mumbai,Maharashtra,UPI,5
+10856,30/07/2025,C1135,Desk Lamp,Home & Kitchen,4,2100,8400,Ahmedabad,Gujarat,Credit Card,5
+10857,15/09/2025,C1063,Jacket,Fashion,1,6700,6700,Pune,Maharashtra,Debit Card,1
+10858,08/09/2025,C1199,Notebook,Books,1,200,200,Mysore,Karnataka,Credit Card,3
+10859,07/06/2025,C1196,Mouse,Electronics,5,750,3750,Hyderabad,Telangana,Debit Card,2
+10860,26/02/2025,C1012,Shoes,Fashion,2,3800,7600,Coimbatore,Tamil Nadu,UPI,4
+10861,09/09/2025,C1009,Backpack,Fashion,1,850,850,Bangalore,Karnataka,Cash on Delivery,4
+10862,17/11/2025,C1177,Headphones,Electronics,3,6600,19800,Ahmedabad,Gujarat,Cash on Delivery,5
+10863,26/05/2025,C1112,Jacket,Fashion,4,2550,10200,Warangal,Telangana,Net Banking,4
+10864,13/03/2025,C1054,Novel,Books,1,300,300,Ahmedabad,Gujarat,Net Banking,3
+10865,20/07/2025,C1200,Smartphone,Electronics,4,32600,130400,Kochi,Kerala,Net Banking,4
+10866,16/06/2025,C1192,Headphones,Electronics,1,2900,2900,Kochi,Kerala,Credit Card,5
+10867,31/10/2025,C1148,Smartwatch,Electronics,1,9100,9100,Hyderabad,Telangana,UPI,3
+10868,17/12/2025,C1140,Mouse,Electronics,4,1200,4800,Bangalore,Karnataka,Net Banking,5
+10869,26/05/2025,C1194,Smartwatch,Electronics,1,2600,2600,Kochi,Kerala,Credit Card,5
+10870,09/09/2025,C1119,Smartwatch,Electronics,1,12350,12350,Warangal,Telangana,UPI,5
+10871,13/02/2025,C1015,Novel,Books,3,1000,3000,Hubli,Karnataka,UPI,3
+10872,08/12/2025,C1074,Novel,Books,2,550,1100,Hubli,Karnataka,UPI,5
+10873,18/11/2025,C1004,Smartwatch,Electronics,2,6850,13700,Warangal,Telangana,UPI,3
+10874,07/08/2025,C1021,Desk Lamp,Home & Kitchen,2,950,1900,Coimbatore,Tamil Nadu,UPI,5
+10875,23/12/2025,C1168,Mouse,Electronics,5,2400,12000,Hubli,Karnataka,Debit Card,4
+10876,20/11/2025,C1046,Headphones,Electronics,4,3000,12000,Pune,Maharashtra,Cash on Delivery,5
+10877,15/09/2025,C1077,Monitor,Electronics,1,12850,12850,Bangalore,Karnataka,Credit Card,2
+10878,17/04/2025,C1183,Programming Book,Books,2,1400,2800,Delhi,Delhi,Cash on Delivery,4
+10879,24/10/2025,C1057,Smartwatch,Electronics,5,13850,69250,Warangal,Telangana,Debit Card,5
+10880,02/12/2025,C1128,Smartwatch,Electronics,2,13950,27900,Bangalore,Karnataka,UPI,4
+10881,27/04/2025,C1184,Headphones,Electronics,5,3450,17250,Kolkata,West Bengal,Credit Card,5
+10882,07/03/2025,C1070,Programming Book,Books,1,1100,1100,Kolkata,West Bengal,UPI,4
+10883,08/02/2025,C1145,Programming Book,Books,1,550,550,Pune,Maharashtra,Credit Card,4
+10884,02/08/2025,C1084,Monitor,Electronics,2,15400,30800,Hyderabad,Telangana,UPI,4
+10885,05/10/2025,C1114,Desk Lamp,Home & Kitchen,2,1500,3000,Bangalore,Karnataka,Credit Card,4
+10886,31/08/2025,C1064,T-Shirt,Fashion,1,1100,1100,Coimbatore,Tamil Nadu,Credit Card,5
+10887,16/01/2025,C1054,Jacket,Fashion,1,5400,5400,Mysore,Karnataka,Credit Card,3
+10888,11/11/2025,C1069,Smartphone,Electronics,2,39800,79600,Ahmedabad,Gujarat,Debit Card,4
+10889,10/11/2025,C1155,T-Shirt,Fashion,2,1200,2400,Ahmedabad,Gujarat,UPI,2
+10890,14/08/2025,C1053,T-Shirt,Fashion,1,1400,1400,Kolkata,West Bengal,Cash on Delivery,4
+10891,28/06/2025,C1039,Bedsheet,Home & Kitchen,4,1750,7000,Ahmedabad,Gujarat,Net Banking,5
+10892,24/12/2025,C1186,Headphones,Electronics,5,3100,15500,Chennai,Tamil Nadu,UPI,5
+10893,01/04/2025,C1164,Laptop,Electronics,2,57250,114500,Hyderabad,Telangana,Cash on Delivery,5
+10894,13/04/2025,C1129,Novel,Books,1,700,700,Hubli,Karnataka,Net Banking,4
+10895,06/05/2025,C1192,Monitor,Electronics,2,9850,19700,Hubli,Karnataka,Cash on Delivery,2
+10896,10/01/2025,C1114,Shoes,Fashion,1,3450,3450,Hyderabad,Telangana,UPI,5
+10897,06/08/2025,C1189,Desk Lamp,Home & Kitchen,4,2450,9800,Bangalore,Karnataka,Debit Card,5
+10898,28/09/2025,C1123,Monitor,Electronics,4,14650,58600,Mumbai,Maharashtra,UPI,4
+10899,07/11/2025,C1149,Bedsheet,Home & Kitchen,2,950,1900,Ahmedabad,Gujarat,Cash on Delivery,4
+10900,05/08/2025,C1139,Monitor,Electronics,1,14150,14150,Kolkata,West Bengal,UPI,3
+10901,07/12/2025,C1192,Laptop,Electronics,2,65150,130300,Hyderabad,Telangana,Debit Card,2
+10902,22/09/2025,C1015,Jeans,Fashion,1,2150,2150,Mysore,Karnataka,Debit Card,4
+10903,06/02/2025,C1086,Jacket,Fashion,2,5600,11200,Chennai,Tamil Nadu,Net Banking,3
+10904,15/06/2025,C1159,Shoes,Fashion,5,1800,9000,Hyderabad,Telangana,Cash on Delivery,1
+10905,31/03/2025,C1029,Laptop,Electronics,1,55500,55500,Kolkata,West Bengal,Debit Card,3
+10906,11/02/2025,C1135,Backpack,Fashion,2,2350,4700,Warangal,Telangana,Debit Card,5
+10907,09/05/2025,C1087,Shoes,Fashion,1,4550,4550,Mysore,Karnataka,Debit Card,5
+10908,10/11/2025,C1070,Programming Book,Books,1,650,650,Hubli,Karnataka,Cash on Delivery,4
+10909,13/04/2025,C1024,Novel,Books,4,850,3400,Hyderabad,Telangana,UPI,5
+10910,25/08/2025,C1105,Laptop,Electronics,1,54400,54400,Bangalore,Karnataka,UPI,1
+10911,28/10/2025,C1154,Mixer Grinder,Home & Kitchen,4,3400,13600,Hyderabad,Telangana,Credit Card,4
+10912,16/01/2025,C1059,Jacket,Fashion,1,6900,6900,Chennai,Tamil Nadu,Debit Card,5
+10913,01/12/2025,C1115,Cookware Set,Home & Kitchen,5,4650,23250,Mysore,Karnataka,Net Banking,4
+10914,13/04/2025,C1041,Keyboard,Electronics,1,1350,1350,Kolkata,West Bengal,UPI,3
+10915,26/01/2025,C1161,T-Shirt,Fashion,1,900,900,Kochi,Kerala,UPI,3
+10916,03/10/2025,C1117,Cookware Set,Home & Kitchen,1,6500,6500,Warangal,Telangana,Net Banking,3
+10917,06/11/2025,C1036,Coffee Maker,Home & Kitchen,1,4700,4700,Hubli,Karnataka,UPI,4
+10918,22/01/2025,C1107,Bedsheet,Home & Kitchen,1,1600,1600,Coimbatore,Tamil Nadu,Debit Card,3
+10919,30/06/2025,C1178,Keyboard,Electronics,2,2750,5500,Chennai,Tamil Nadu,UPI,5
+10920,13/04/2025,C1047,Novel,Books,3,400,1200,Chennai,Tamil Nadu,UPI,5
+10921,18/02/2025,C1101,Desk Lamp,Home & Kitchen,5,1500,7500,Hubli,Karnataka,UPI,5
+10922,25/12/2025,C1186,Bedsheet,Home & Kitchen,3,1550,4650,Bangalore,Karnataka,UPI,5
+10923,23/03/2025,C1144,Programming Book,Books,1,650,650,Hubli,Karnataka,Credit Card,5
+10924,16/04/2025,C1032,T-Shirt,Fashion,3,900,2700,Hubli,Karnataka,Net Banking,4
+10925,10/04/2025,C1146,Desk Lamp,Home & Kitchen,2,2250,4500,Pune,Maharashtra,UPI,4
+10926,06/06/2025,C1079,Novel,Books,3,500,1500,Hyderabad,Telangana,UPI,5
+10927,16/03/2025,C1014,Novel,Books,1,300,300,Kochi,Kerala,Net Banking,5
+10928,29/07/2025,C1186,Novel,Books,3,350,1050,Hyderabad,Telangana,UPI,1
+10929,19/12/2025,C1092,Bedsheet,Home & Kitchen,1,2150,2150,Ahmedabad,Gujarat,UPI,3
+10930,14/02/2025,C1137,Jeans,Fashion,2,2500,5000,Coimbatore,Tamil Nadu,UPI,3
+10931,11/05/2025,C1185,Laptop,Electronics,3,60650,181950,Mysore,Karnataka,UPI,3
+10932,25/01/2025,C1179,Shoes,Fashion,1,3100,3100,Hubli,Karnataka,UPI,4
+10933,03/09/2025,C1041,Smartwatch,Electronics,1,12750,12750,Pune,Maharashtra,Debit Card,1
+10934,10/03/2025,C1058,Smartwatch,Electronics,4,14100,56400,Mysore,Karnataka,UPI,4
+10935,13/10/2025,C1071,Jacket,Fashion,5,6900,34500,Pune,Maharashtra,UPI,5
+10936,22/02/2025,C1198,Headphones,Electronics,2,1450,2900,Pune,Maharashtra,Cash on Delivery,5
+10937,25/12/2025,C1098,Desk Lamp,Home & Kitchen,1,2150,2150,Chennai,Tamil Nadu,Credit Card,4
+10938,06/07/2025,C1114,Mouse,Electronics,5,450,2250,Kochi,Kerala,UPI,5
+10939,08/10/2025,C1019,Jeans,Fashion,1,1250,1250,Pune,Maharashtra,Credit Card,3
+10940,26/01/2025,C1027,Cookware Set,Home & Kitchen,5,2300,11500,Warangal,Telangana,Credit Card,5
+10941,17/08/2025,C1097,Novel,Books,1,800,800,Kochi,Kerala,UPI,5
+10942,08/08/2025,C1117,T-Shirt,Fashion,1,600,600,Mumbai,Maharashtra,Cash on Delivery,3
+10943,06/10/2025,C1097,Keyboard,Electronics,3,3500,10500,Kochi,Kerala,Credit Card,5
+10944,03/06/2025,C1176,Novel,Books,2,700,1400,Ahmedabad,Gujarat,Credit Card,5
+10945,04/08/2025,C1146,Monitor,Electronics,1,28250,28250,Mysore,Karnataka,Credit Card,4
+10946,05/07/2025,C1070,Jeans,Fashion,2,1300,2600,Warangal,Telangana,Cash on Delivery,3
+10947,20/02/2025,C1151,Monitor,Electronics,1,20200,20200,Hubli,Karnataka,Credit Card,4
+10948,02/07/2025,C1009,Jeans,Fashion,1,2850,2850,Coimbatore,Tamil Nadu,UPI,4
+10949,18/10/2025,C1131,Smartphone,Electronics,1,61100,61100,Hubli,Karnataka,UPI,5
+10950,29/07/2025,C1103,Monitor,Electronics,4,15000,60000,Bangalore,Karnataka,UPI,5
+10951,09/05/2025,C1091,Smartwatch,Electronics,2,14550,29100,Pune,Maharashtra,UPI,5
+10952,27/07/2025,C1176,Novel,Books,2,250,500,Mysore,Karnataka,UPI,1
+10953,23/05/2025,C1060,Mouse,Electronics,1,1850,1850,Ahmedabad,Gujarat,UPI,3
+10954,05/03/2025,C1002,Shoes,Fashion,1,2950,2950,Bangalore,Karnataka,UPI,5
+10955,14/07/2025,C1078,Smartphone,Electronics,3,57500,172500,Mumbai,Maharashtra,Debit Card,3
+10956,21/10/2025,C1087,Bedsheet,Home & Kitchen,1,900,900,Hyderabad,Telangana,UPI,4
+10957,13/02/2025,C1100,Laptop,Electronics,2,70350,140700,Kolkata,West Bengal,UPI,4
+10958,17/03/2025,C1194,Desk Lamp,Home & Kitchen,4,1900,7600,Delhi,Delhi,UPI,5
+10959,04/08/2025,C1159,Keyboard,Electronics,1,4300,4300,Coimbatore,Tamil Nadu,Credit Card,1
+10960,09/12/2025,C1121,Mixer Grinder,Home & Kitchen,2,8900,17800,Kochi,Kerala,UPI,1
+10961,27/02/2025,C1133,Shoes,Fashion,1,5650,5650,Warangal,Telangana,Net Banking,4
+10962,01/05/2025,C1160,Programming Book,Books,4,1550,6200,Chennai,Tamil Nadu,UPI,5
+10963,13/01/2025,C1147,Shoes,Fashion,1,5150,5150,Bangalore,Karnataka,Debit Card,3
+10964,25/12/2025,C1185,Notebook,Books,1,300,300,Coimbatore,Tamil Nadu,Cash on Delivery,4
+10965,03/09/2025,C1161,Headphones,Electronics,2,7850,15700,Coimbatore,Tamil Nadu,UPI,4
+10966,24/07/2025,C1109,Novel,Books,2,650,1300,Mysore,Karnataka,UPI,3
+10967,21/06/2025,C1137,Mixer Grinder,Home & Kitchen,5,2800,14000,Mumbai,Maharashtra,UPI,2
+10968,15/11/2025,C1069,Novel,Books,2,950,1900,Mysore,Karnataka,UPI,5
+10969,04/01/2025,C1090,Shoes,Fashion,1,5400,5400,Bangalore,Karnataka,UPI,4
+10970,02/09/2025,C1014,Bedsheet,Home & Kitchen,1,1000,1000,Mysore,Karnataka,Credit Card,4
+10971,05/07/2025,C1142,Laptop,Electronics,1,50750,50750,Warangal,Telangana,Credit Card,4
+10972,26/08/2025,C1033,Notebook,Books,2,300,600,Ahmedabad,Gujarat,Cash on Delivery,5
+10973,19/01/2025,C1070,Novel,Books,1,450,450,Ahmedabad,Gujarat,Cash on Delivery,5
+10974,10/12/2025,C1085,Keyboard,Electronics,1,1950,1950,Chennai,Tamil Nadu,UPI,5
+10975,29/09/2025,C1016,Bedsheet,Home & Kitchen,1,1000,1000,Bangalore,Karnataka,Credit Card,1
+10976,30/09/2025,C1032,Smartwatch,Electronics,1,8100,8100,Mysore,Karnataka,UPI,4
+10977,16/09/2025,C1198,Programming Book,Books,1,750,750,Kochi,Kerala,UPI,5
+10978,25/08/2025,C1026,Laptop,Electronics,2,51150,102300,Mysore,Karnataka,Cash on Delivery,4
+10979,12/10/2025,C1106,T-Shirt,Fashion,3,1300,3900,Mumbai,Maharashtra,UPI,3
+10980,19/04/2025,C1191,Mixer Grinder,Home & Kitchen,5,3800,19000,Delhi,Delhi,Net Banking,3
+10981,15/08/2025,C1064,Programming Book,Books,1,650,650,Coimbatore,Tamil Nadu,UPI,5
+10982,23/08/2025,C1191,Jacket,Fashion,3,2050,6150,Coimbatore,Tamil Nadu,Cash on Delivery,2
+10983,15/01/2025,C1159,Desk Lamp,Home & Kitchen,5,1700,8500,Warangal,Telangana,Debit Card,2
+10984,10/05/2025,C1084,Keyboard,Electronics,4,4050,16200,Kolkata,West Bengal,UPI,2
+10985,27/11/2025,C1156,Mouse,Electronics,3,2350,7050,Warangal,Telangana,UPI,5
+10986,19/02/2025,C1142,Jeans,Fashion,2,1150,2300,Mysore,Karnataka,Credit Card,3
+10987,30/06/2025,C1167,Headphones,Electronics,1,7650,7650,Kochi,Kerala,UPI,4
+10988,30/07/2025,C1048,Backpack,Fashion,4,1350,5400,Delhi,Delhi,Cash on Delivery,5
+10989,17/09/2025,C1078,Programming Book,Books,2,500,1000,Warangal,Telangana,Credit Card,4
+10990,31/08/2025,C1081,Notebook,Books,1,100,100,Delhi,Delhi,Cash on Delivery,4
+10991,12/01/2025,C1066,Smartphone,Electronics,3,39950,119850,Hubli,Karnataka,UPI,5
+10992,07/06/2025,C1160,Desk Lamp,Home & Kitchen,5,750,3750,Kochi,Kerala,Cash on Delivery,4
+10993,07/10/2025,C1102,Notebook,Books,5,150,750,Mysore,Karnataka,Cash on Delivery,2
+10994,01/10/2025,C1044,Cookware Set,Home & Kitchen,4,5300,21200,Hyderabad,Telangana,UPI,3
+10995,11/06/2025,C1139,Backpack,Fashion,2,2450,4900,Warangal,Telangana,Debit Card,4
+10996,25/07/2025,C1024,Headphones,Electronics,2,7650,15300,Kochi,Kerala,Debit Card,4
+10997,01/11/2025,C1098,Coffee Maker,Home & Kitchen,2,4300,8600,Kolkata,West Bengal,UPI,5
+10998,07/01/2025,C1127,T-Shirt,Fashion,4,800,3200,Pune,Maharashtra,Credit Card,5
+10999,12/05/2025,C1108,T-Shirt,Fashion,3,800,2400,Coimbatore,Tamil Nadu,UPI,2
+11000,07/09/2025,C1148,T-Shirt,Fashion,3,1400,4200,Hubli,Karnataka,UPI,4
